@@ -1,0 +1,9 @@
+marketing_source,marketing_medium,campaign_name,spend_usd,spend_type,conversions,revenue_usd,cpa_usd,roi_percent,roas
+Newsletter_November_2020,email,BlackFriday_V2,75.0,Illustrative,10.0,840.0,7.5,1020.0,11.2
+Newsletter_December_2020,email,Holiday_V2,60.0,Illustrative,6.0,333.0,10.0,455.0,5.55
+Newsletter_December_2020,email,Holiday_V1,60.0,Illustrative,2.0,291.0,30.0,385.0,4.85
+Partners,affiliate,Data Share Promo,40.0,Illustrative,2.0,167.0,20.0,317.5,4.17
+google,cpc,<Other>,1200.0,Illustrative,49.0,3147.0,24.49,162.25,2.62
+Newsletter_November_2020,email,BlackFriday_V1,75.0,Illustrative,2.0,117.0,37.5,56.0,1.56
+Newsletter_January_2021,email,NewYear_V2,60.0,Illustrative,2.0,78.0,30.0,30.0,1.3
+Newsletter_January_2021,email,NewYear_V1,60.0,Illustrative,1.0,0.0,60.0,-100.0,0.0

@@ -1,0 +1,40 @@
+-- Project: Customer 360 and Marketing Attribution
+-- Query 09: Customer 360 Validation
+
+SELECT
+    'CRM Customers' AS table_name,
+    COUNT(*) AS total_records
+FROM
+    `customer-360-analytics-513215.customer360_raw.crm_customers`
+
+UNION ALL
+
+SELECT
+    'Identity Mapping',
+    COUNT(*)
+FROM
+    `customer-360-analytics-513215.customer360_raw.identity_mapping`
+
+UNION ALL
+
+SELECT
+    'Customer 360 Base',
+    COUNT(*)
+FROM
+    `customer-360-analytics-513215.customer360_raw.customer_360_base`
+
+UNION ALL
+
+SELECT
+    'Customer 360 Activity',
+    COUNT(*)
+FROM
+    `customer-360-analytics-513215.customer360_raw.customer_360_activity`
+
+UNION ALL
+
+SELECT
+    'Customer 360 Revenue',
+    COUNT(*)
+FROM
+    `customer-360-analytics-513215.customer360_raw.customer_360_revenue`;

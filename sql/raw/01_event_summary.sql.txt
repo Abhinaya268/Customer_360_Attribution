@@ -1,0 +1,14 @@
+-- Project: Customer 360 and Marketing Attribution
+-- Query 01: GA4 Event Summary
+-- Purpose: Count events by event name
+
+SELECT
+    event_name,
+    COUNT(*) AS total_events
+FROM
+    `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
+GROUP BY
+    event_name
+ORDER BY
+    total_events DESC
+LIMIT 10;

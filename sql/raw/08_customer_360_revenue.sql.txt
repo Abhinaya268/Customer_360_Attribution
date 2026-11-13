@@ -1,0 +1,34 @@
+-- Project: Customer 360 and Marketing Attribution
+-- Query 08: Customer 360 Revenue
+
+CREATE OR REPLACE TABLE
+`customer-360-analytics-513215.customer360_raw.customer_360_revenue`
+AS
+
+WITH purchase_data AS (
+    SELECT
+        user_pseudo_id,
+        COUNT(*) AS purchase_count,
+        SUM(
+            COALESCE(ecommerce.purchase_revenue_in_usd, 0)
+        ) AS total_revenue_usd
+    FROM
+        `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
+    WHERE
+        event_name = 'purchase'
+    GROUP BY
+        user_pseudo_id
+)
+
+SELECT
+    c.*,
+    COALESCE(p.purchase_count, 0) AS purchase_count,
+    ROUND(
+        COALESCE(p.total_revenue_usd, 0), 2
+    ) AS total_revenue_usd
+
+FROM
+    `customer-360-analytics-513215.customer360_raw.customer_360_activity` AS c
+
+LEFT JOIN purchase_data AS p
+ON c.user_pseudo_id = p.user_pseudo_id;

@@ -1,0 +1,32 @@
+-- Project: Customer 360 and Marketing Attribution
+-- Query 07: Customer 360 Website Activity
+
+CREATE OR REPLACE TABLE
+`customer-360-analytics-513215.customer360_raw.customer_360_activity`
+AS
+
+WITH website_activity AS (
+    SELECT
+        user_pseudo_id,
+        COUNT(*) AS total_events,
+        COUNTIF(event_name = 'purchase') AS purchase_events,
+        COUNTIF(event_name = 'add_to_cart') AS cart_events,
+        COUNTIF(event_name = 'begin_checkout') AS checkout_events
+    FROM
+        `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
+    GROUP BY
+        user_pseudo_id
+)
+
+SELECT
+    c.*,
+    COALESCE(a.total_events, 0) AS total_events,
+    COALESCE(a.purchase_events, 0) AS purchase_events,
+    COALESCE(a.cart_events, 0) AS cart_events,
+    COALESCE(a.checkout_events, 0) AS checkout_events
+
+FROM
+    `customer-360-analytics-513215.customer360_raw.customer_360_base` AS c
+
+LEFT JOIN website_activity AS a
+ON c.user_pseudo_id = a.user_pseudo_id;

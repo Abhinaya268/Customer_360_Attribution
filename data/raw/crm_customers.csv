@@ -1,0 +1,1001 @@
+customer_id,full_name,email,phone,city,signup_date,customer_type,loyalty_tier
+CUST00001,Allison Hill,customer1@example.com,9321819600,East Jessetown,2025-07-06,Regular,Bronze
+CUST00002,Meredith Barnes,customer2@example.com,9794026542,Port Matthew,2024-02-08,New,Gold
+CUST00003,Ryan Munoz,customer3@example.com,9078161849,Barbaraland,2023-12-19,New,Silver
+CUST00004,Dylan Miller,customer4@example.com,9316475255,Lake Joseph,2026-08-21,New,Bronze
+CUST00005,Lisa Jackson,customer5@example.com,9327648350,Port Antonio,2024-10-09,Regular,Bronze
+CUST00006,Daniel Hahn,customer6@example.com,9537672423,Juliechester,2026-07-10,Regular,Platinum
+CUST00007,Daniel Bright,customer7@example.com,9871012269,South Patrickmouth,2025-05-31,New,Bronze
+CUST00008,Shannon Smith,customer8@example.com,9184514627,Lake Nancyview,2026-09-29,New,Silver
+CUST00009,Katie Rodriguez,customer9@example.com,9489325288,New Mariotown,2024-02-29,New,Bronze
+CUST00010,William Roman,customer10@example.com,9303911718,East Donna,2026-09-01,Regular,Silver
+CUST00011,Joseph Obrien,customer11@example.com,9383465787,East Jeffreymouth,2023-11-22,Regular,Platinum
+CUST00012,Leah Smith,customer12@example.com,9031051834,Lewisberg,2025-12-30,New,Platinum
+CUST00013,Laura Sanchez,customer13@example.com,9763116566,Shieldston,2025-11-06,Regular,Gold
+CUST00014,Mrs. Jennifer Morgan,customer14@example.com,9133387262,Stevenland,2025-02-26,New,Silver
+CUST00015,Krista Williams,customer15@example.com,9801326773,Barreraburgh,2024-12-18,Regular,Platinum
+CUST00016,Mrs. Rachel Gibson,customer16@example.com,9687234309,Lake Leeton,2025-07-31,Returning,Gold
+CUST00017,Sarah Moore,customer17@example.com,9812191361,New Brooke,2025-09-07,New,Silver
+CUST00018,Kevin Mills,customer18@example.com,9435346247,Sarahland,2023-11-09,Returning,Bronze
+CUST00019,Kristine Garcia,customer19@example.com,9838425135,Ericside,2025-12-09,New,Platinum
+CUST00020,Victoria Valdez,customer20@example.com,9084124118,West Juan,2024-06-16,New,Gold
+CUST00021,Michael Farrell,customer21@example.com,9874016400,Kellieview,2024-04-24,Returning,Gold
+CUST00022,Michael Hoffman,customer22@example.com,9112805982,Andersonport,2024-12-02,New,Platinum
+CUST00023,Valerie Williams,customer23@example.com,9533158692,Port Francisco,2026-03-24,Regular,Bronze
+CUST00024,Jason White,customer24@example.com,9563421607,East Lisa,2025-03-17,Returning,Bronze
+CUST00025,Robert Perez,customer25@example.com,9036541458,Frazierside,2024-10-26,Regular,Gold
+CUST00026,Shawn Green,customer26@example.com,9940196556,South Rachelborough,2024-08-04,Regular,Gold
+CUST00027,April Frost,customer27@example.com,9835615951,Williamchester,2024-10-21,Regular,Silver
+CUST00028,Kristen Lee,customer28@example.com,9629946804,Jasonshire,2025-08-24,Regular,Bronze
+CUST00029,Jeremy Lowe,customer29@example.com,9872148951,Lake Lance,2026-03-31,New,Silver
+CUST00030,Angel Riggs,customer30@example.com,9917693676,East Diana,2023-11-05,Returning,Bronze
+CUST00031,Patricia Rodriguez,customer31@example.com,9632870831,Andersonmouth,2025-10-30,New,Bronze
+CUST00032,Linda Dodson DVM,customer32@example.com,9986872774,Port Dana,2026-02-15,Returning,Gold
+CUST00033,Lori Hill,customer33@example.com,9143455812,East Patrick,2024-04-14,Returning,Gold
+CUST00034,Jason Rivera,customer34@example.com,9760366909,Woodsstad,2024-09-21,New,Gold
+CUST00035,Steven Houston,customer35@example.com,9889373467,South Matthewfurt,2025-12-31,Returning,Silver
+CUST00036,Tamara Hooper,customer36@example.com,9806990162,Whiteview,2024-12-18,Regular,Gold
+CUST00037,Gabriel Juarez,customer37@example.com,9646417080,Jeffreyland,2026-03-04,Regular,Bronze
+CUST00038,Nicole Herring,customer38@example.com,9309232719,South Holly,2026-02-16,Regular,Silver
+CUST00039,Lawrence Adkins,customer39@example.com,9124190496,Davidborough,2024-01-21,Regular,Silver
+CUST00040,Lori Garcia,customer40@example.com,9491905865,New Deborahtown,2026-05-18,New,Platinum
+CUST00041,Ashley Yu,customer41@example.com,9726284987,Grahamshire,2024-08-19,Returning,Gold
+CUST00042,Sandra Miller,customer42@example.com,9737996507,Hunterborough,2024-11-21,Regular,Silver
+CUST00043,Douglas Carlson,customer43@example.com,9480831367,Lake Thomas,2025-12-18,Regular,Gold
+CUST00044,Alan Phillips,customer44@example.com,9634957885,Barajasside,2024-10-26,New,Silver
+CUST00045,Denise King,customer45@example.com,9135182337,Jennyhaven,2025-08-14,New,Gold
+CUST00046,Dr. Elizabeth Ward,customer46@example.com,9408240084,Lake Miranda,2025-04-20,Returning,Gold
+CUST00047,Laura Harrison,customer47@example.com,9752047116,Joneston,2024-04-13,New,Silver
+CUST00048,Tiffany Miller,customer48@example.com,9318699938,Hayesmouth,2024-09-19,Regular,Gold
+CUST00049,Jessica Carroll,customer49@example.com,9091334123,New Charles,2023-11-01,New,Platinum
+CUST00050,Kirk Carter,customer50@example.com,9344713493,Wilsonbury,2025-10-08,Returning,Platinum
+CUST00051,Samantha Jones,customer51@example.com,9249947174,Benderhaven,2025-06-12,New,Gold
+CUST00052,Kyle Preston,customer52@example.com,9594013990,Barbaraburgh,2025-03-28,New,Silver
+CUST00053,Sydney White,customer53@example.com,9967175655,Port Eugenechester,2025-11-28,Regular,Gold
+CUST00054,Tony Cervantes,customer54@example.com,9807154516,Lake Mollymouth,2025-01-24,Regular,Platinum
+CUST00055,Isaiah Avila,customer55@example.com,9703482477,North Teresabury,2025-12-15,Regular,Platinum
+CUST00056,Adam Russell,customer56@example.com,9317127484,Davenportfort,2024-07-23,Returning,Silver
+CUST00057,Janet Weeks,customer57@example.com,9821465840,Jessicashire,2025-07-26,New,Platinum
+CUST00058,Sharon Griffin,customer58@example.com,9755886753,New Patrick,2026-05-25,New,Bronze
+CUST00059,Evan Kennedy,customer59@example.com,9662702895,Port Meganville,2025-05-28,New,Silver
+CUST00060,Nathan Ortiz,customer60@example.com,9217459615,Finleyfort,2026-06-12,Regular,Silver
+CUST00061,Barry Welch,customer61@example.com,9431611724,North Markton,2024-09-15,Regular,Platinum
+CUST00062,Charles Schmidt,customer62@example.com,9922219693,Durhamberg,2024-07-10,Regular,Bronze
+CUST00063,Julia Estrada,customer63@example.com,9748217594,Vaughnmouth,2026-05-13,Returning,Platinum
+CUST00064,James Webb,customer64@example.com,9369594406,Alanton,2026-07-24,Regular,Platinum
+CUST00065,Sandra Leach,customer65@example.com,9395339421,West Kristinaton,2025-07-26,Regular,Gold
+CUST00066,Ann Phillips,customer66@example.com,9623285884,West Robin,2026-08-29,Regular,Bronze
+CUST00067,Elizabeth Harrell,customer67@example.com,9171236851,Smithside,2024-03-13,Regular,Bronze
+CUST00068,Paul Baker,customer68@example.com,9651370985,Lake Bryan,2026-04-19,Regular,Gold
+CUST00069,Elizabeth Ortiz,customer69@example.com,9200471138,South Shawn,2025-11-02,Regular,Gold
+CUST00070,Theresa Barnes,customer70@example.com,9261796405,South Sean,2024-07-14,New,Gold
+CUST00071,William Richardson,customer71@example.com,9506431713,North Kristinbury,2026-10-17,Returning,Silver
+CUST00072,Christine Gallegos,customer72@example.com,9839335290,Micheleberg,2026-10-16,Returning,Bronze
+CUST00073,Rebecca Rodriguez,customer73@example.com,9020539502,Brianchester,2025-05-28,Regular,Gold
+CUST00074,Karen Strickland,customer74@example.com,9891783908,Stephentown,2024-01-04,Regular,Silver
+CUST00075,James Parks,customer75@example.com,9771159212,Claudiashire,2025-06-21,Regular,Bronze
+CUST00076,Zachary Schmidt,customer76@example.com,9789611836,Beasleychester,2024-11-04,Regular,Gold
+CUST00077,Jason Davis,customer77@example.com,9654527111,South Colinstad,2026-04-06,Regular,Silver
+CUST00078,Laurie Hoffman,customer78@example.com,9516560494,Dalehaven,2024-06-19,New,Gold
+CUST00079,Courtney Rodriguez,customer79@example.com,9851493689,New Sarahview,2023-11-30,New,Bronze
+CUST00080,Phillip Dorsey,customer80@example.com,9502296120,Lake Alyssafurt,2025-02-01,Regular,Gold
+CUST00081,Jacob Griffith,customer81@example.com,9991022901,Scottchester,2025-04-14,Returning,Bronze
+CUST00082,Donald Fischer,customer82@example.com,9156149784,East Randallton,2023-11-07,New,Gold
+CUST00083,Daniel Taylor,customer83@example.com,9445107622,Patelbury,2025-04-30,Returning,Silver
+CUST00084,Renee Jones,customer84@example.com,9060715969,Mckinneychester,2024-09-11,New,Silver
+CUST00085,Vincent Jackson,customer85@example.com,9975161369,Warrenfurt,2026-06-10,Regular,Bronze
+CUST00086,Connie Maxwell,customer86@example.com,9181883552,North Dwayne,2024-06-02,New,Platinum
+CUST00087,Paige Rios,customer87@example.com,9277997995,Edwardland,2025-03-26,New,Silver
+CUST00088,Rebecca Vargas,customer88@example.com,9581477005,Chaseland,2025-09-03,New,Platinum
+CUST00089,Julie Spencer,customer89@example.com,9079359782,South Dalemouth,2026-10-10,Regular,Silver
+CUST00090,Matthew Williams,customer90@example.com,9778892554,Ortizmouth,2025-11-12,Returning,Platinum
+CUST00091,Mark Cook,customer91@example.com,9518644925,New Elizabethstad,2024-10-04,New,Silver
+CUST00092,Mary Anderson,customer92@example.com,9148652816,Andrewport,2024-05-14,Regular,Gold
+CUST00093,Travis Tucker,customer93@example.com,9322141888,Lake Matthewberg,2025-08-14,Returning,Gold
+CUST00094,Christopher Schwartz,customer94@example.com,9927065379,Karenmouth,2024-07-12,Returning,Platinum
+CUST00095,Vincent Mueller,customer95@example.com,9359774688,Burchborough,2026-03-26,New,Silver
+CUST00096,David Davidson,customer96@example.com,9581814124,Whiteheadberg,2026-04-27,New,Bronze
+CUST00097,Thomas Velasquez,customer97@example.com,9506068536,West Jeffreymouth,2026-08-15,Returning,Bronze
+CUST00098,Marie Moody,customer98@example.com,9204727790,North Jonathanberg,2025-06-22,Regular,Silver
+CUST00099,Kelsey Rodriguez,customer99@example.com,9434103697,North Maryfort,2025-08-14,Regular,Silver
+CUST00100,Jose Allen,customer100@example.com,9246095396,Lake Elizabeth,2025-05-25,New,Bronze
+CUST00101,Troy Stephens,customer101@example.com,9880670654,West Kristinastad,2024-07-20,Regular,Bronze
+CUST00102,Ashley Perkins,customer102@example.com,9520585277,Port Dennis,2025-12-22,New,Bronze
+CUST00103,Amanda Harris,customer103@example.com,9305486874,Port Deborahport,2024-11-24,New,Gold
+CUST00104,Sharon Rivera,customer104@example.com,9156676527,Richardsonhaven,2024-08-17,New,Silver
+CUST00105,Jeff Jordan,customer105@example.com,9284511544,Morrisonchester,2024-04-29,Returning,Platinum
+CUST00106,Jeremy Acosta,customer106@example.com,9596401658,North Douglas,2025-08-25,New,Silver
+CUST00107,Amanda Jones,customer107@example.com,9556909275,Scottland,2025-07-20,Regular,Platinum
+CUST00108,Jennifer Banks,customer108@example.com,9310278681,Kimberlymouth,2024-06-21,New,Platinum
+CUST00109,Melissa Lutz,customer109@example.com,9312172715,Jennaside,2025-06-15,Returning,Silver
+CUST00110,Sarah Joseph,customer110@example.com,9258313237,West Angelastad,2025-03-25,New,Bronze
+CUST00111,Mrs. Stacey Jones,customer111@example.com,9678669125,South Stevenhaven,2024-11-10,Regular,Platinum
+CUST00112,Penny Bowman,customer112@example.com,9226801824,East Marcus,2025-12-15,Returning,Platinum
+CUST00113,Todd Jacobson,customer113@example.com,9143842498,New Danielleshire,2026-08-27,Returning,Platinum
+CUST00114,Matthew Le,customer114@example.com,9959001094,Port Ashley,2025-09-06,Regular,Bronze
+CUST00115,Stephen Gardner,customer115@example.com,9473647102,Perrymouth,2024-06-09,Regular,Bronze
+CUST00116,Emily Higgins,customer116@example.com,9562588153,Martinezmouth,2024-07-27,New,Platinum
+CUST00117,Dylan Cruz,customer117@example.com,9963259532,Ferrellmouth,2025-04-28,Regular,Gold
+CUST00118,Alexander Landry,customer118@example.com,9873395004,Harperfort,2024-09-07,New,Silver
+CUST00119,Brian Anderson,customer119@example.com,9456506098,West Angela,2024-01-18,New,Silver
+CUST00120,Pamela Ramirez,customer120@example.com,9991216558,Kariborough,2025-08-20,Regular,Platinum
+CUST00121,Andrew Williams,customer121@example.com,9578729825,Franciscoport,2025-08-10,New,Platinum
+CUST00122,Katrina Burns,customer122@example.com,9947055169,Lauratown,2025-08-14,New,Gold
+CUST00123,Matthew Stanton,customer123@example.com,9993097289,Hernandezbury,2023-12-03,Returning,Silver
+CUST00124,Ashley Smith,customer124@example.com,9562636897,Lake Devinborough,2025-07-05,New,Platinum
+CUST00125,Mrs. Jamie Frye DDS,customer125@example.com,9858549733,Angelabury,2026-08-26,Regular,Bronze
+CUST00126,Dr. Michele Vaughn,customer126@example.com,9757584419,Huangfurt,2026-04-13,New,Bronze
+CUST00127,Regina Roberts,customer127@example.com,9415747338,Sarahview,2024-03-28,New,Silver
+CUST00128,Laurie Sanchez,customer128@example.com,9833016571,North Tamara,2026-10-05,New,Platinum
+CUST00129,Matthew Gilmore,customer129@example.com,9773454019,New Joanne,2026-05-18,Returning,Platinum
+CUST00130,Thomas Butler,customer130@example.com,9206724004,West Justinside,2025-05-26,New,Platinum
+CUST00131,Brandi Gordon,customer131@example.com,9431527420,Krystalshire,2025-11-07,New,Silver
+CUST00132,Levi Fowler,customer132@example.com,9668516122,Morrisbury,2023-11-06,Returning,Bronze
+CUST00133,Jeremy Adams,customer133@example.com,9549904530,South Kurtfurt,2025-11-19,Returning,Gold
+CUST00134,Stacy Carrillo,customer134@example.com,9145933272,Adkinsstad,2025-01-27,Returning,Gold
+CUST00135,Kaitlin Medina,customer135@example.com,9339187851,North Mariahaven,2024-06-07,Returning,Platinum
+CUST00136,Carmen Bond,customer136@example.com,9713971870,Andersonchester,2025-03-13,New,Silver
+CUST00137,Joel Roman,customer137@example.com,9064039106,Isabellaside,2026-10-23,Returning,Silver
+CUST00138,Andrea Peck,customer138@example.com,9046226567,Bennettside,2024-03-23,New,Bronze
+CUST00139,Barbara Haney,customer139@example.com,9682300478,Patelbury,2024-07-27,Regular,Gold
+CUST00140,Donald Pineda,customer140@example.com,9106903311,South Carlaton,2024-07-24,New,Bronze
+CUST00141,Jeffrey Fernandez,customer141@example.com,9028439599,Joelberg,2026-10-14,Regular,Platinum
+CUST00142,Jennifer Hill,customer142@example.com,9892687056,Heatherchester,2024-04-10,Regular,Silver
+CUST00143,Paul Wells,customer143@example.com,9342708668,South John,2024-06-08,New,Bronze
+CUST00144,Tammy Boone,customer144@example.com,9183046990,East Lindashire,2025-12-31,New,Bronze
+CUST00145,Karen Booth,customer145@example.com,9540331739,South Rose,2025-06-26,Regular,Bronze
+CUST00146,Jamie Ferguson,customer146@example.com,9544587717,Robinstad,2024-10-06,Regular,Silver
+CUST00147,Sean Figueroa,customer147@example.com,9048996423,Jerryshire,2026-04-30,Returning,Bronze
+CUST00148,Mr. Michael Scott PhD,customer148@example.com,9772522872,New Arthurland,2026-08-30,Regular,Silver
+CUST00149,Pamela Gutierrez,customer149@example.com,9312038750,Hopkinstown,2023-11-06,Regular,Bronze
+CUST00150,Alexandra Moreno,customer150@example.com,9484086211,East James,2025-05-28,Regular,Bronze
+CUST00151,Debra Sanders,customer151@example.com,9567933410,South Nicholasside,2025-04-03,Returning,Gold
+CUST00152,Michele Miller,customer152@example.com,9659180339,Nelsonland,2025-11-18,Returning,Silver
+CUST00153,Joshua Barrett,customer153@example.com,9250392614,New John,2026-05-01,Regular,Gold
+CUST00154,Steven Rivera,customer154@example.com,9218501631,Cassiefurt,2026-09-25,New,Gold
+CUST00155,Mark Bowers,customer155@example.com,9773586629,Millerport,2026-03-22,Returning,Silver
+CUST00156,Angela Moore,customer156@example.com,9265511047,Kathleenville,2024-03-23,Regular,Gold
+CUST00157,Jerry Peters,customer157@example.com,9610158199,Michelletown,2024-09-13,Returning,Gold
+CUST00158,Bradley Santana,customer158@example.com,9398262244,Trevorland,2024-04-30,New,Bronze
+CUST00159,Elijah Patton,customer159@example.com,9543799371,West Adam,2025-01-05,Returning,Bronze
+CUST00160,Jamie Atkins,customer160@example.com,9756924593,Edwardsfurt,2026-09-25,New,Silver
+CUST00161,Michael Henry,customer161@example.com,9935646519,New Wendy,2024-05-14,Regular,Gold
+CUST00162,Alyssa Acosta,customer162@example.com,9374167243,Donnachester,2026-03-12,New,Gold
+CUST00163,William Mendoza,customer163@example.com,9688680589,North Kaylastad,2024-04-29,New,Silver
+CUST00164,Kristine Newman,customer164@example.com,9656101438,South Neil,2025-03-20,Returning,Gold
+CUST00165,Melissa Hernandez,customer165@example.com,9071461125,Matthewborough,2025-05-23,New,Platinum
+CUST00166,Brent Bowen,customer166@example.com,9751401051,Lake John,2024-05-08,Regular,Gold
+CUST00167,Justin Mullen,customer167@example.com,9362266093,Vargasfurt,2023-11-03,Regular,Bronze
+CUST00168,Donald Padilla,customer168@example.com,9191825537,West Emilyfort,2025-05-30,Regular,Gold
+CUST00169,Linda Carr,customer169@example.com,9915579249,Lake Dennisville,2024-07-17,Regular,Bronze
+CUST00170,James Thomas,customer170@example.com,9669296627,New Garrett,2024-09-10,New,Gold
+CUST00171,Ryan Harvey,customer171@example.com,9507236887,Cohenchester,2025-12-16,New,Bronze
+CUST00172,Christopher Cunningham,customer172@example.com,9340438427,Dunnville,2025-07-18,Regular,Silver
+CUST00173,Joshua Ritter,customer173@example.com,9807836134,South Joseland,2025-02-22,Returning,Gold
+CUST00174,Patricia Young PhD,customer174@example.com,9959629233,New Michaelview,2025-08-14,Regular,Silver
+CUST00175,William Carter,customer175@example.com,9948126042,East Dustin,2024-10-17,Regular,Gold
+CUST00176,Ryan Long,customer176@example.com,9294667116,Heatherstad,2025-03-11,New,Gold
+CUST00177,Kevin Melton PhD,customer177@example.com,9175186363,Adamsport,2024-11-03,Regular,Platinum
+CUST00178,Kylie Washington,customer178@example.com,9500170127,Smithchester,2024-06-07,Returning,Bronze
+CUST00179,Bonnie Santos,customer179@example.com,9241541520,Garrettbury,2025-02-11,New,Platinum
+CUST00180,Brandon Lewis,customer180@example.com,9129387005,Port Robertberg,2025-04-05,Returning,Bronze
+CUST00181,Brandon Shaffer,customer181@example.com,9155426221,New Debramouth,2024-11-17,New,Gold
+CUST00182,Paul Gillespie,customer182@example.com,9973112196,Sylviamouth,2026-03-15,New,Gold
+CUST00183,Matthew Wright,customer183@example.com,9999404389,Lake Peter,2025-10-07,New,Platinum
+CUST00184,Rebecca Allen,customer184@example.com,9613791805,Davidshire,2025-02-02,Regular,Platinum
+CUST00185,Carrie Ruiz,customer185@example.com,9109104300,Hunterhaven,2026-02-16,Regular,Bronze
+CUST00186,James Davidson,customer186@example.com,9892414183,New Mark,2025-08-02,New,Bronze
+CUST00187,Marie Day,customer187@example.com,9463031617,West Elizabethburgh,2024-03-08,Regular,Silver
+CUST00188,Meredith Martin,customer188@example.com,9588425241,West Lindsayview,2025-05-26,Regular,Bronze
+CUST00189,William Burton,customer189@example.com,9778507925,West Kerri,2026-07-06,Returning,Silver
+CUST00190,Ashley Yang,customer190@example.com,9000307562,Port Austin,2026-03-28,Returning,Silver
+CUST00191,Mary Walker,customer191@example.com,9365419518,East Jeffreyhaven,2026-10-09,New,Gold
+CUST00192,Andrea Marshall,customer192@example.com,9445187053,Anneport,2026-01-17,Returning,Bronze
+CUST00193,Jacob Bonilla,customer193@example.com,9383206038,Cynthiatown,2026-09-06,Returning,Silver
+CUST00194,Matthew Sweeney,customer194@example.com,9413836702,Christopherbury,2026-07-09,Regular,Silver
+CUST00195,Mercedes Watson,customer195@example.com,9191826199,South Elaineberg,2024-07-15,Regular,Bronze
+CUST00196,Ethan Owen,customer196@example.com,9557431329,East Danielmouth,2025-03-23,Returning,Platinum
+CUST00197,Joshua Oconnell,customer197@example.com,9374741124,East Marymouth,2024-04-09,Regular,Silver
+CUST00198,Tracy Foster,customer198@example.com,9044206788,North Steven,2026-03-29,New,Silver
+CUST00199,Adam Greer,customer199@example.com,9323651994,North Wendyborough,2026-07-15,New,Platinum
+CUST00200,Carl Stein,customer200@example.com,9510702966,Johnsonchester,2024-05-06,New,Silver
+CUST00201,Cody Ramirez,customer201@example.com,9209993476,Brownview,2024-12-22,Regular,Gold
+CUST00202,Marvin Robles,customer202@example.com,9380657875,Paulburgh,2023-11-27,Returning,Silver
+CUST00203,Alyssa Cochran,customer203@example.com,9407859321,Lake John,2025-06-05,Returning,Silver
+CUST00204,Nancy Gallagher,customer204@example.com,9396522395,Robintown,2025-12-08,Regular,Bronze
+CUST00205,Keith Thomas,customer205@example.com,9378427010,New Jeffery,2025-05-28,Returning,Bronze
+CUST00206,Thomas Harris,customer206@example.com,9252500292,Port Aliciastad,2026-09-16,Returning,Silver
+CUST00207,Tom Foster,customer207@example.com,9154522675,Lake Tanya,2025-11-28,New,Platinum
+CUST00208,Rachel Walker,customer208@example.com,9926442209,Rosalesshire,2023-12-04,Returning,Gold
+CUST00209,Tammy Ponce,customer209@example.com,9391725135,Garyland,2026-04-17,New,Silver
+CUST00210,Monica Rogers,customer210@example.com,9043315410,South Samuelchester,2026-09-26,New,Silver
+CUST00211,Katherine Gray,customer211@example.com,9861793271,West Andrewview,2026-09-07,Returning,Gold
+CUST00212,Christopher Bennett,customer212@example.com,9181599706,New Pamela,2024-04-19,Returning,Bronze
+CUST00213,Daniel Lee,customer213@example.com,9884443106,Hernandezstad,2023-11-03,Returning,Gold
+CUST00214,Rodney Weber,customer214@example.com,9731032417,West Kristenfort,2025-04-18,Regular,Platinum
+CUST00215,Anna Stephens,customer215@example.com,9256527047,Bakerview,2025-07-09,Regular,Gold
+CUST00216,Michael Davis,customer216@example.com,9586938068,Sheppardfort,2025-07-18,New,Bronze
+CUST00217,Edwin Foster,customer217@example.com,9089899217,East Teresa,2026-04-03,Returning,Silver
+CUST00218,Jay Mcneil,customer218@example.com,9632945116,Arnoldview,2025-05-21,Regular,Gold
+CUST00219,Alexandria Graves,customer219@example.com,9986162299,North Annaville,2026-03-09,New,Bronze
+CUST00220,Sheryl Humphrey,customer220@example.com,9467997024,Thomasfurt,2023-12-11,Regular,Platinum
+CUST00221,Erin Young,customer221@example.com,9745054447,Port Jeremyport,2026-10-01,Returning,Gold
+CUST00222,Roger Adams,customer222@example.com,9691373678,Lorihaven,2026-03-15,Returning,Bronze
+CUST00223,Michael Powell,customer223@example.com,9890233030,Williamsstad,2025-12-10,Returning,Silver
+CUST00224,Rodney Wagner,customer224@example.com,9103579727,Maxview,2026-01-27,Returning,Bronze
+CUST00225,Dominique Hughes,customer225@example.com,9293333468,Port Kimberlytown,2025-04-01,Regular,Platinum
+CUST00226,Christopher Owen,customer226@example.com,9349446657,Jefferyport,2025-11-10,New,Silver
+CUST00227,Jennifer Garcia,customer227@example.com,9858994417,West Vanessamouth,2026-05-31,Returning,Platinum
+CUST00228,Michael Stafford,customer228@example.com,9432830965,Lake Anthony,2025-04-27,New,Gold
+CUST00229,Terry Sullivan,customer229@example.com,9099353875,Meganside,2024-05-15,Regular,Gold
+CUST00230,Carl Green,customer230@example.com,9825135346,Nathanshire,2024-09-16,Regular,Bronze
+CUST00231,Julie Delacruz,customer231@example.com,9999173816,Robertberg,2024-03-28,Regular,Gold
+CUST00232,Jason Hudson,customer232@example.com,9725217525,North Shannonborough,2026-02-10,Regular,Gold
+CUST00233,Phillip Burns,customer233@example.com,9129666676,North Amandastad,2026-09-05,Regular,Platinum
+CUST00234,Nicole Schmidt,customer234@example.com,9003354216,Garyton,2024-09-20,Returning,Platinum
+CUST00235,Nicholas Carlson,customer235@example.com,9562575326,East Jeffreyberg,2024-06-17,Regular,Gold
+CUST00236,Jonathan Martinez,customer236@example.com,9064890901,North Hannahchester,2025-02-27,Regular,Silver
+CUST00237,David Miles,customer237@example.com,9304618499,South Maria,2024-02-21,New,Platinum
+CUST00238,Autumn Wilson,customer238@example.com,9173934835,Phillipston,2025-06-21,Regular,Platinum
+CUST00239,Melissa Castillo,customer239@example.com,9300119721,Lake Jenniferview,2025-10-05,Regular,Silver
+CUST00240,William Baker,customer240@example.com,9012045561,Port Katherineton,2023-11-09,Regular,Gold
+CUST00241,Matthew Murphy,customer241@example.com,9794155216,Riversview,2026-05-02,Returning,Bronze
+CUST00242,Karen Fisher,customer242@example.com,9212021697,Whitefurt,2026-03-01,Returning,Gold
+CUST00243,Shari Hobbs,customer243@example.com,9277167014,Alexanderhaven,2026-02-17,New,Platinum
+CUST00244,Krystal Levine,customer244@example.com,9588916375,Hernandezside,2026-07-03,Regular,Gold
+CUST00245,Alexandra Michael,customer245@example.com,9877217535,Brentbury,2025-06-24,Returning,Platinum
+CUST00246,Robert Miller,customer246@example.com,9797177517,North Richardton,2025-07-01,Returning,Silver
+CUST00247,Brandon Munoz,customer247@example.com,9948837550,Port Shawn,2025-07-04,Regular,Platinum
+CUST00248,Kara Sandoval,customer248@example.com,9711305548,Jacquelineton,2026-07-08,Regular,Silver
+CUST00249,Rodney Newton MD,customer249@example.com,9493316373,Danielchester,2023-12-19,Regular,Bronze
+CUST00250,Megan Martinez,customer250@example.com,9779827080,Robersonfort,2026-08-08,Returning,Gold
+CUST00251,Susan Holt,customer251@example.com,9221699586,Pettybury,2024-08-24,New,Silver
+CUST00252,Tracy Chavez,customer252@example.com,9226984858,East Jason,2025-12-20,Regular,Gold
+CUST00253,Tammy Anderson,customer253@example.com,9288515879,Craigside,2024-09-07,New,Silver
+CUST00254,Rhonda Mills,customer254@example.com,9062003424,Dwayneton,2025-11-24,New,Bronze
+CUST00255,Paul Johnson,customer255@example.com,9719838638,Heatherton,2026-08-10,New,Silver
+CUST00256,Tyler Daugherty,customer256@example.com,9580043973,Kariside,2026-01-16,Returning,Bronze
+CUST00257,Nathaniel Lee,customer257@example.com,9721228160,Ramirezview,2024-03-20,Returning,Platinum
+CUST00258,Dawn Rivera,customer258@example.com,9202590947,Charlesmouth,2025-05-27,Regular,Silver
+CUST00259,Kelly Hartman,customer259@example.com,9268861533,Markport,2024-06-25,Regular,Platinum
+CUST00260,Kerry Barajas,customer260@example.com,9015739930,Patrickville,2024-12-25,Returning,Platinum
+CUST00261,Diane Pruitt,customer261@example.com,9588770435,North Garyside,2025-06-05,New,Silver
+CUST00262,Christine Soto,customer262@example.com,9361386120,Loveton,2024-02-02,Regular,Bronze
+CUST00263,Robert Grant,customer263@example.com,9934667665,South Emilyside,2023-11-05,New,Platinum
+CUST00264,Amy Reese,customer264@example.com,9015814491,Kathymouth,2024-12-21,New,Silver
+CUST00265,Amanda Moore,customer265@example.com,9326842450,North Bobby,2025-07-18,Regular,Platinum
+CUST00266,Joshua Miller,customer266@example.com,9353682223,Jamesburgh,2025-11-03,New,Silver
+CUST00267,Amy Potter,customer267@example.com,9878141413,Lynnstad,2024-03-18,New,Platinum
+CUST00268,Ariel Harvey,customer268@example.com,9357759492,Lindseychester,2024-05-01,New,Platinum
+CUST00269,Richard Joseph,customer269@example.com,9645257775,Tonyville,2024-05-09,Regular,Gold
+CUST00270,Sarah Trevino,customer270@example.com,9283411080,Hammondborough,2026-07-19,Returning,Platinum
+CUST00271,Kimberly Lutz,customer271@example.com,9725639427,South Michaeltown,2025-10-25,Regular,Platinum
+CUST00272,Renee Mendez,customer272@example.com,9282722992,Crosbyton,2024-06-25,New,Platinum
+CUST00273,Arthur Wood Jr.,customer273@example.com,9385677005,Lake Tanyaview,2026-05-02,Returning,Gold
+CUST00274,Joshua Thompson,customer274@example.com,9659184638,Gomezstad,2025-04-15,New,Gold
+CUST00275,Mr. Jonathan Taylor,customer275@example.com,9231843222,Carolynville,2025-10-23,Regular,Platinum
+CUST00276,Gary Wilson,customer276@example.com,9773926030,New Brittany,2024-03-25,Regular,Silver
+CUST00277,Stephanie Thomas,customer277@example.com,9242869904,East Shanefort,2026-06-06,Returning,Platinum
+CUST00278,Ronald Burke,customer278@example.com,9929842579,East Nicholasberg,2024-02-25,New,Gold
+CUST00279,Scott Gordon,customer279@example.com,9629127990,North Timothyberg,2026-07-14,New,Gold
+CUST00280,April Pace,customer280@example.com,9686508637,Bellshire,2024-02-14,Returning,Gold
+CUST00281,John Hall,customer281@example.com,9149864300,New Adrianborough,2025-11-21,Regular,Bronze
+CUST00282,Jack Moore,customer282@example.com,9944869594,Fischerchester,2025-06-26,New,Silver
+CUST00283,Cassandra Hansen,customer283@example.com,9744956213,Loganburgh,2024-02-16,New,Platinum
+CUST00284,Rachel Owen,customer284@example.com,9902601279,Davisview,2024-06-29,Regular,Silver
+CUST00285,Andrew Cruz,customer285@example.com,9698490277,East Melissahaven,2024-09-07,Regular,Silver
+CUST00286,Kyle Black,customer286@example.com,9392053021,Kimberlystad,2025-11-01,New,Platinum
+CUST00287,Curtis Smith,customer287@example.com,9118489554,New Sylvia,2025-03-11,Returning,Gold
+CUST00288,Aaron Thompson,customer288@example.com,9818184518,Nancyshire,2024-07-30,Regular,Platinum
+CUST00289,James Webb,customer289@example.com,9357790714,South Cynthiabury,2025-11-09,Returning,Bronze
+CUST00290,Ethan Moses,customer290@example.com,9880434165,New Sarahfort,2024-10-08,New,Platinum
+CUST00291,Kenneth White,customer291@example.com,9373334333,Port Christine,2024-04-17,Returning,Bronze
+CUST00292,Thomas Lowe,customer292@example.com,9790807595,Villanuevashire,2026-06-08,Regular,Platinum
+CUST00293,William Moon IV,customer293@example.com,9392086780,Phillipburgh,2025-03-14,Returning,Bronze
+CUST00294,Joseph Stewart,customer294@example.com,9003691559,Jacobview,2024-07-15,Returning,Gold
+CUST00295,Louis Diaz,customer295@example.com,9763655647,New David,2025-07-22,Returning,Platinum
+CUST00296,Brett Nelson,customer296@example.com,9386632270,South Victor,2026-10-25,Regular,Silver
+CUST00297,Kelly Le,customer297@example.com,9744890612,East Lisafort,2026-05-06,Returning,Silver
+CUST00298,Patrick Green,customer298@example.com,9588450615,New Barbara,2025-10-10,Returning,Platinum
+CUST00299,Richard Kelly,customer299@example.com,9877169472,Lake Lindsey,2024-11-02,Returning,Bronze
+CUST00300,Laura Sweeney,customer300@example.com,9112535544,Nelsonmouth,2026-03-03,Returning,Gold
+CUST00301,Nicole Meyer,customer301@example.com,9762202341,East Randy,2024-02-11,Regular,Platinum
+CUST00302,Kara Brown,customer302@example.com,9681149216,Jeromeport,2025-02-26,Regular,Silver
+CUST00303,Joseph Jackson,customer303@example.com,9055778487,Lake Amber,2025-08-07,Returning,Silver
+CUST00304,Paul Wiley,customer304@example.com,9688457831,Parkerchester,2024-08-09,Regular,Bronze
+CUST00305,Aaron Ochoa,customer305@example.com,9254780774,Port Russellport,2025-08-14,Returning,Bronze
+CUST00306,Kimberly Lopez,customer306@example.com,9866326634,South Colleenhaven,2026-02-13,New,Platinum
+CUST00307,Rhonda Cohen,customer307@example.com,9484631224,Lake Stanleymouth,2024-08-23,New,Platinum
+CUST00308,Chelsea Smith,customer308@example.com,9080214427,East Christophertown,2025-04-22,New,Bronze
+CUST00309,Eric Lloyd,customer309@example.com,9570512046,New Theodoreborough,2026-07-07,Returning,Platinum
+CUST00310,James Smith,customer310@example.com,9367303718,South Paul,2026-09-17,Returning,Silver
+CUST00311,Caitlin Chandler,customer311@example.com,9881474350,North Joel,2025-02-16,Returning,Gold
+CUST00312,Robert Richards,customer312@example.com,9630097925,East Ericland,2025-11-19,Returning,Platinum
+CUST00313,Wayne Malone,customer313@example.com,9005281273,Tinastad,2026-03-30,Returning,Platinum
+CUST00314,Corey Norris,customer314@example.com,9524077848,Lopezburgh,2025-06-16,Returning,Bronze
+CUST00315,John Dillon,customer315@example.com,9982182744,Shawnhaven,2024-12-18,Returning,Bronze
+CUST00316,Albert Vincent,customer316@example.com,9935186387,New Justin,2025-01-21,Regular,Bronze
+CUST00317,Brent Hopkins,customer317@example.com,9022031731,New Darlenefurt,2025-10-20,Returning,Silver
+CUST00318,Meredith Scott,customer318@example.com,9539103717,West Angelachester,2026-04-17,Regular,Bronze
+CUST00319,Amy Jensen,customer319@example.com,9801413811,New Paul,2024-05-28,Regular,Bronze
+CUST00320,Laura Meza,customer320@example.com,9886195761,Port Henry,2025-01-12,New,Silver
+CUST00321,Christopher Murillo,customer321@example.com,9755855665,New Amy,2024-12-14,New,Bronze
+CUST00322,Natasha Ward,customer322@example.com,9776004908,West Adam,2026-10-12,Regular,Silver
+CUST00323,Ethan Ingram,customer323@example.com,9488899210,Kellyberg,2024-08-15,New,Silver
+CUST00324,Danielle Scott,customer324@example.com,9419693157,South Margaret,2025-11-23,Returning,Bronze
+CUST00325,Susan Larson,customer325@example.com,9409610556,Conradville,2026-06-09,Regular,Silver
+CUST00326,Matthew Guzman,customer326@example.com,9060480589,West Wayne,2024-06-27,Returning,Gold
+CUST00327,Nicholas Long,customer327@example.com,9799813646,East Matthew,2025-04-03,Returning,Silver
+CUST00328,Kimberly Baker,customer328@example.com,9686227837,Pearsonborough,2025-07-06,Regular,Bronze
+CUST00329,Kelly Allen MD,customer329@example.com,9659116655,West Melvin,2025-10-17,New,Gold
+CUST00330,Caroline Bailey,customer330@example.com,9792703352,North Jodibury,2026-09-04,New,Bronze
+CUST00331,Sheila Wilkins,customer331@example.com,9051477053,East Amy,2026-01-29,Returning,Platinum
+CUST00332,Lisa Gay,customer332@example.com,9069804204,Port Heather,2024-08-22,Returning,Silver
+CUST00333,Tony Jones,customer333@example.com,9451046368,West Toddside,2024-02-03,New,Silver
+CUST00334,Walter Castro,customer334@example.com,9003845762,West Gabriellestad,2025-09-14,New,Gold
+CUST00335,William Mason,customer335@example.com,9046084325,Sandovalland,2026-01-06,Regular,Bronze
+CUST00336,Megan Salas,customer336@example.com,9363926495,Danielsborough,2025-10-14,Regular,Bronze
+CUST00337,Melinda Harris,customer337@example.com,9248262925,New Amandaville,2024-05-18,Returning,Platinum
+CUST00338,Brianna Johnson,customer338@example.com,9566474231,East Anthony,2026-10-14,Regular,Gold
+CUST00339,Lisa Salazar,customer339@example.com,9933051728,Josephstad,2024-05-18,New,Gold
+CUST00340,John Martin,customer340@example.com,9306046333,East Saramouth,2026-06-06,New,Platinum
+CUST00341,Frederick Ellis II,customer341@example.com,9609656999,New Danielmouth,2026-04-23,Returning,Bronze
+CUST00342,Zachary Stone,customer342@example.com,9608680347,Wilkersonport,2025-03-18,Returning,Gold
+CUST00343,Louis Brown,customer343@example.com,9827718129,South Robert,2025-03-07,Regular,Platinum
+CUST00344,Kevin Marquez,customer344@example.com,9371452111,Waltersland,2025-05-26,Regular,Silver
+CUST00345,Richard Hunt,customer345@example.com,9268602592,Port Duane,2026-02-18,Returning,Silver
+CUST00346,Eric Cross,customer346@example.com,9742123094,South Tylerfort,2025-06-16,Regular,Gold
+CUST00347,Stephen Young,customer347@example.com,9977671990,New Joshua,2025-09-17,Regular,Platinum
+CUST00348,Christine Lopez,customer348@example.com,9050209945,North Danielburgh,2024-04-23,Returning,Platinum
+CUST00349,Matthew Graves,customer349@example.com,9982795014,Miguelfurt,2026-04-16,Regular,Gold
+CUST00350,Sarah Brown,customer350@example.com,9721458683,New Brian,2025-07-17,Returning,Silver
+CUST00351,Kendra Miller,customer351@example.com,9946954899,Sarashire,2025-04-26,New,Gold
+CUST00352,Kathleen Morton,customer352@example.com,9934301071,Port Christina,2025-01-26,Returning,Silver
+CUST00353,Gregory Shaffer,customer353@example.com,9303441448,Katieville,2025-11-19,Returning,Platinum
+CUST00354,Nathaniel Gilbert,customer354@example.com,9023557702,Mooremouth,2026-07-03,Returning,Bronze
+CUST00355,Frances Bowers,customer355@example.com,9608495880,New Gina,2026-03-24,Returning,Gold
+CUST00356,Heather Montes,customer356@example.com,9405682996,New Darryl,2026-03-05,New,Platinum
+CUST00357,Scott Mckinney,customer357@example.com,9461735743,Gregorystad,2026-03-08,New,Gold
+CUST00358,Susan Wallace,customer358@example.com,9078235784,Douglasville,2026-04-18,Returning,Gold
+CUST00359,Megan Anderson,customer359@example.com,9076810409,West Steventon,2024-02-20,Returning,Gold
+CUST00360,Nichole Johnson,customer360@example.com,9435334485,Lambertview,2024-04-10,Regular,Bronze
+CUST00361,Adrian Dean,customer361@example.com,9813858542,Audreyburgh,2024-01-16,Regular,Silver
+CUST00362,Gina Wallace,customer362@example.com,9207016016,Whiteshire,2025-09-18,New,Silver
+CUST00363,Jill Kelly,customer363@example.com,9538179217,South Lancemouth,2025-03-28,Regular,Platinum
+CUST00364,Briana Huang,customer364@example.com,9456255770,South Danielfort,2025-03-18,Returning,Silver
+CUST00365,Randy Munoz,customer365@example.com,9281615814,Moraleschester,2024-07-17,Regular,Platinum
+CUST00366,Christopher Olson,customer366@example.com,9153966958,East Elaine,2024-01-23,Regular,Platinum
+CUST00367,Laura Tucker,customer367@example.com,9997581724,Jonesville,2025-11-19,Returning,Bronze
+CUST00368,Sally Murphy,customer368@example.com,9013290227,Petershire,2025-03-03,New,Gold
+CUST00369,Shawn Evans,customer369@example.com,9465190986,Port Kelly,2024-12-07,New,Platinum
+CUST00370,Amy Warner,customer370@example.com,9514036965,Sullivanchester,2025-06-18,Regular,Silver
+CUST00371,Karen Lopez,customer371@example.com,9656242201,East Jenniferfort,2025-10-20,Returning,Gold
+CUST00372,Brandy Taylor,customer372@example.com,9679692786,Cruzbury,2024-05-20,Returning,Gold
+CUST00373,Laura Bradford,customer373@example.com,9384689500,Bushville,2025-07-26,Returning,Gold
+CUST00374,Angela Cross,customer374@example.com,9847818913,Mccoyland,2025-11-17,Returning,Platinum
+CUST00375,Lauren Austin,customer375@example.com,9580778795,Gomezport,2024-09-10,Returning,Gold
+CUST00376,Thomas Curry,customer376@example.com,9940792904,West Toddberg,2025-05-06,Returning,Silver
+CUST00377,Diana Anderson,customer377@example.com,9444019292,Woodburgh,2024-08-11,New,Silver
+CUST00378,Kari Lloyd,customer378@example.com,9051292766,Lake Scott,2025-09-27,Returning,Bronze
+CUST00379,Nicholas Reed,customer379@example.com,9410276747,South Frances,2024-12-30,Regular,Silver
+CUST00380,Joseph Graham,customer380@example.com,9476580185,Bishopview,2024-10-31,New,Silver
+CUST00381,Brett Pena,customer381@example.com,9673938525,Lake Alanland,2023-11-12,Regular,Platinum
+CUST00382,Brian Griffin,customer382@example.com,9344300910,New Danielle,2025-12-14,Returning,Gold
+CUST00383,Scott Anderson,customer383@example.com,9921244717,Kaylamouth,2024-08-07,New,Silver
+CUST00384,Destiny Brown,customer384@example.com,9650442717,New Philip,2025-10-06,Returning,Silver
+CUST00385,Joshua Reynolds,customer385@example.com,9917410119,Kimberlytown,2026-07-08,Returning,Silver
+CUST00386,Martin Fitzpatrick,customer386@example.com,9642569087,Grahamland,2025-06-12,Returning,Bronze
+CUST00387,Troy Meyers,customer387@example.com,9719855460,West Amandamouth,2024-01-26,Regular,Silver
+CUST00388,Randall Holland,customer388@example.com,9280634615,Millermouth,2026-01-12,Returning,Bronze
+CUST00389,Corey Cortez,customer389@example.com,9937618478,Levytown,2023-12-09,New,Gold
+CUST00390,Richard Williams,customer390@example.com,9138782931,Lake Donaldtown,2025-03-29,Regular,Silver
+CUST00391,Amber Haynes,customer391@example.com,9202041792,Port Lisaville,2025-04-26,Regular,Platinum
+CUST00392,Connie Brock,customer392@example.com,9656519825,Port Brandon,2024-05-07,New,Bronze
+CUST00393,Donald Todd,customer393@example.com,9258273902,Port Melaniefurt,2026-02-28,Regular,Gold
+CUST00394,John Smith,customer394@example.com,9219467232,Alexandrachester,2024-07-18,Returning,Platinum
+CUST00395,Michael Carlson,customer395@example.com,9791456083,North Valerie,2026-10-04,Returning,Gold
+CUST00396,Shari Hatfield,customer396@example.com,9837340312,Jimenezburgh,2025-11-02,New,Bronze
+CUST00397,Matthew Mitchell,customer397@example.com,9645970108,East Kristen,2025-04-13,Returning,Platinum
+CUST00398,Steven Griffith,customer398@example.com,9995635315,North Joel,2025-01-24,New,Bronze
+CUST00399,Steven Jones,customer399@example.com,9970623972,Brooksmouth,2025-12-26,Returning,Platinum
+CUST00400,Vanessa Harris,customer400@example.com,9209042177,Jacksonmouth,2024-06-26,New,Bronze
+CUST00401,Christopher Norton,customer401@example.com,9929831687,New Thomas,2025-03-20,New,Silver
+CUST00402,Jeffrey Salas,customer402@example.com,9356939290,Bairdton,2026-10-20,Regular,Gold
+CUST00403,Kathy Simmons,customer403@example.com,9671773180,Dodsonberg,2024-11-25,New,Silver
+CUST00404,Zachary Smith,customer404@example.com,9427990772,Lopezstad,2025-09-15,New,Platinum
+CUST00405,April Burton,customer405@example.com,9658046498,Port Gail,2025-09-09,Regular,Silver
+CUST00406,Timothy Robertson,customer406@example.com,9501657905,Gregoryside,2025-12-10,Regular,Platinum
+CUST00407,Patricia Taylor,customer407@example.com,9538179335,Rachaelhaven,2025-11-13,Returning,Platinum
+CUST00408,Arthur Reed,customer408@example.com,9788178847,Laurenland,2024-05-23,Returning,Platinum
+CUST00409,Anita Myers,customer409@example.com,9241124127,Port James,2026-09-07,Returning,Bronze
+CUST00410,Jason Fleming,customer410@example.com,9275670431,Port Lauriehaven,2025-10-05,Regular,Bronze
+CUST00411,Grant Lucas,customer411@example.com,9579887749,Port Kirk,2026-03-13,New,Silver
+CUST00412,Jacob Roberts,customer412@example.com,9025472928,Ianburgh,2026-05-06,Returning,Bronze
+CUST00413,Mary Hernandez,customer413@example.com,9310592745,East Anna,2023-12-07,New,Silver
+CUST00414,Gregg Watson,customer414@example.com,9828410672,Reillyberg,2023-11-03,New,Bronze
+CUST00415,Vanessa Rivera,customer415@example.com,9474929751,Mcculloughberg,2025-11-11,New,Bronze
+CUST00416,Alexander Williamson,customer416@example.com,9375150939,Port Shari,2024-08-29,Returning,Platinum
+CUST00417,Joshua Griffin,customer417@example.com,9186375998,Lake Michaelberg,2025-12-22,Regular,Platinum
+CUST00418,James Smith,customer418@example.com,9554781376,Robertschester,2026-01-05,Returning,Bronze
+CUST00419,Russell Harper,customer419@example.com,9234785196,North Robertview,2025-01-26,New,Gold
+CUST00420,Michelle Fischer,customer420@example.com,9232648704,Troymouth,2024-07-02,Regular,Gold
+CUST00421,Brittany Evans,customer421@example.com,9714627301,Trevorland,2025-08-16,Regular,Platinum
+CUST00422,John Graham,customer422@example.com,9471589042,East Luisberg,2024-11-24,New,Silver
+CUST00423,Isaac Fields,customer423@example.com,9504481832,New Karenside,2024-10-17,Returning,Silver
+CUST00424,Ryan Marsh,customer424@example.com,9451895202,Nathanfort,2025-01-23,Returning,Bronze
+CUST00425,Carla Robinson,customer425@example.com,9833898881,Stevensland,2024-03-05,Regular,Silver
+CUST00426,Alan Bailey,customer426@example.com,9527985240,East Davidberg,2025-11-22,Regular,Silver
+CUST00427,Daniel Zavala,customer427@example.com,9611076031,Port Donnashire,2024-01-02,Returning,Silver
+CUST00428,David Jones,customer428@example.com,9011939325,North Dustinview,2026-09-03,New,Bronze
+CUST00429,Christopher Mason,customer429@example.com,9938911908,Lake James,2024-09-02,New,Gold
+CUST00430,Kimberly Beltran,customer430@example.com,9138759271,Port Michael,2024-12-19,Regular,Gold
+CUST00431,Darren Rodriguez,customer431@example.com,9517182754,North Markville,2024-12-24,Returning,Bronze
+CUST00432,Noah Mcdaniel,customer432@example.com,9738646317,Harryfort,2025-11-04,Returning,Gold
+CUST00433,Joseph Rhodes,customer433@example.com,9126691215,West James,2026-05-12,Regular,Platinum
+CUST00434,David Coleman,customer434@example.com,9749946579,Archerhaven,2024-08-30,Returning,Platinum
+CUST00435,Ashley King,customer435@example.com,9732010170,South Cassandra,2024-10-22,Returning,Bronze
+CUST00436,Marcus Wolf,customer436@example.com,9877347784,Lisaside,2025-06-20,Regular,Bronze
+CUST00437,Amanda Jordan,customer437@example.com,9167567700,New Donna,2026-03-02,Returning,Gold
+CUST00438,Carly Jordan,customer438@example.com,9467197889,Alvarezburgh,2025-05-07,Regular,Gold
+CUST00439,Johnny Arellano,customer439@example.com,9954500902,Michaelshire,2023-11-28,New,Bronze
+CUST00440,Gloria Davis,customer440@example.com,9556503334,Lake Cameronport,2024-03-03,New,Bronze
+CUST00441,Joshua Johnson,customer441@example.com,9698640790,Nicholasfurt,2024-10-17,Regular,Gold
+CUST00442,John Vazquez,customer442@example.com,9357852945,Harrisland,2026-05-08,Regular,Bronze
+CUST00443,Donna Williams,customer443@example.com,9963919195,Carloshaven,2025-04-02,New,Platinum
+CUST00444,Robert Pearson,customer444@example.com,9484685366,Colleenmouth,2025-11-04,Regular,Platinum
+CUST00445,Shirley Burton,customer445@example.com,9829737489,Michaelton,2025-05-24,Returning,Silver
+CUST00446,Charles Hernandez,customer446@example.com,9466513644,West Gloria,2024-07-14,Regular,Platinum
+CUST00447,Chris Johnson,customer447@example.com,9477866032,Derekview,2026-03-13,Regular,Platinum
+CUST00448,Juan Newman,customer448@example.com,9070015941,Mosleyland,2025-01-06,New,Platinum
+CUST00449,Sarah Young,customer449@example.com,9981898471,New David,2026-04-01,Returning,Platinum
+CUST00450,Kevin Price,customer450@example.com,9363212347,Kingshire,2023-12-30,Returning,Gold
+CUST00451,Melissa Rodriguez,customer451@example.com,9867342575,Andrewton,2026-05-09,Regular,Bronze
+CUST00452,Teresa Vazquez,customer452@example.com,9348645183,Pricefurt,2026-08-11,New,Gold
+CUST00453,Elizabeth Mayer,customer453@example.com,9343275604,Port Kimberlyfort,2025-03-29,Returning,Platinum
+CUST00454,Ryan Love,customer454@example.com,9124815698,Shawntown,2026-02-11,Returning,Platinum
+CUST00455,Catherine Ramos,customer455@example.com,9206345911,East Zachary,2026-09-26,Regular,Bronze
+CUST00456,Pamela Bradford,customer456@example.com,9657724295,Jameschester,2024-12-05,Returning,Bronze
+CUST00457,James Davenport,customer457@example.com,9930089317,West Jacqueline,2024-05-01,Returning,Gold
+CUST00458,Jeffrey Green,customer458@example.com,9152910867,Wilsonborough,2024-05-25,Returning,Bronze
+CUST00459,Rachael Roberts,customer459@example.com,9762639343,Whiteberg,2023-11-30,Returning,Bronze
+CUST00460,Cynthia Hayes,customer460@example.com,9359710725,Mcdanielfurt,2025-12-14,Regular,Platinum
+CUST00461,Dawn Davis,customer461@example.com,9005375990,West Williamfurt,2024-09-25,Returning,Bronze
+CUST00462,Jacob Donaldson,customer462@example.com,9809242875,Andersonmouth,2025-12-16,New,Gold
+CUST00463,David Edwards,customer463@example.com,9274564494,Ryanburgh,2024-10-09,Regular,Platinum
+CUST00464,Pamela Hernandez DVM,customer464@example.com,9703203207,Frankmouth,2025-02-19,Regular,Platinum
+CUST00465,Tammy Williams MD,customer465@example.com,9877712151,Port Justin,2026-05-02,New,Silver
+CUST00466,Samantha Elliott,customer466@example.com,9939089261,Port Tyler,2024-02-10,Returning,Silver
+CUST00467,Duane Zavala,customer467@example.com,9165915201,Rivasfort,2025-03-10,Returning,Platinum
+CUST00468,Linda Smith,customer468@example.com,9097592304,Laurenland,2025-06-20,Regular,Platinum
+CUST00469,Anna Scott,customer469@example.com,9361032664,North Kenneth,2026-03-26,New,Bronze
+CUST00470,Tammy Mckee,customer470@example.com,9925158377,Alvarezshire,2025-08-17,Regular,Silver
+CUST00471,Jay Richardson,customer471@example.com,9266108573,South Alison,2025-10-08,Regular,Silver
+CUST00472,John Miller,customer472@example.com,9742243864,New Charleston,2025-05-14,Returning,Bronze
+CUST00473,Jennifer Marshall,customer473@example.com,9945491801,Whiteburgh,2026-05-10,Regular,Platinum
+CUST00474,Jason Bush,customer474@example.com,9597794523,North Julie,2025-08-22,New,Silver
+CUST00475,Ashley Ferguson,customer475@example.com,9061027769,Turnerstad,2025-11-24,New,Platinum
+CUST00476,Megan Ballard,customer476@example.com,9122031030,South Deborah,2025-10-11,New,Silver
+CUST00477,Mark Tyler,customer477@example.com,9314727601,East Joanne,2025-03-01,Returning,Gold
+CUST00478,Mr. Jerry Sanchez,customer478@example.com,9496050166,Mclaughlinside,2026-10-28,Regular,Gold
+CUST00479,James Palmer,customer479@example.com,9973080695,West Patriciachester,2026-06-30,Returning,Platinum
+CUST00480,Marcus Lucas,customer480@example.com,9760243757,New Jeffrey,2026-07-22,Returning,Silver
+CUST00481,Lance Kirby,customer481@example.com,9724665729,West Hannah,2024-02-01,Returning,Silver
+CUST00482,Mr. Christopher Vasquez,customer482@example.com,9674338005,Michaelburgh,2024-05-08,Returning,Silver
+CUST00483,Kathy Roman,customer483@example.com,9561931837,Victoriastad,2026-02-19,Regular,Silver
+CUST00484,Kristin Kemp,customer484@example.com,9891077119,Port Annahaven,2024-02-22,New,Gold
+CUST00485,Shelby Bartlett,customer485@example.com,9247871255,North Melinda,2025-02-22,Returning,Gold
+CUST00486,Randy Sanchez,customer486@example.com,9754821456,Crystalbury,2024-04-13,Regular,Gold
+CUST00487,Jennifer Perez,customer487@example.com,9666785072,Lake Lindaland,2024-01-30,New,Gold
+CUST00488,William Martin,customer488@example.com,9060290846,Blackwellside,2026-06-13,Regular,Gold
+CUST00489,Emily Cooper,customer489@example.com,9489267389,Terryfurt,2026-02-25,Regular,Platinum
+CUST00490,Angela Medina,customer490@example.com,9628843188,Adrienneburgh,2023-11-24,New,Platinum
+CUST00491,Kimberly Green,customer491@example.com,9468105485,North Katherineville,2025-03-04,Regular,Platinum
+CUST00492,Abigail Morgan,customer492@example.com,9399893544,Lake Nicholas,2026-01-15,Returning,Gold
+CUST00493,Jose Lee,customer493@example.com,9571266110,Beasleyfort,2024-06-21,Regular,Platinum
+CUST00494,Michael Powell,customer494@example.com,9886497677,Colonberg,2025-05-06,Returning,Gold
+CUST00495,Mr. Walter Palmer,customer495@example.com,9813770285,New Melissaville,2024-03-10,New,Silver
+CUST00496,Amanda Hernandez,customer496@example.com,9545447022,Williamsport,2026-06-30,Regular,Platinum
+CUST00497,Robert Burns,customer497@example.com,9185106794,Mcculloughfurt,2025-04-02,New,Platinum
+CUST00498,Lisa Gill,customer498@example.com,9877725199,Hughesfurt,2024-11-04,New,Gold
+CUST00499,Michael Ramos,customer499@example.com,9412094818,East Stephanieside,2025-07-23,Regular,Platinum
+CUST00500,Kelly Lopez,customer500@example.com,9780182043,Port Janice,2026-06-28,Regular,Platinum
+CUST00501,Robert Lawson,customer501@example.com,9690705626,Port Allisonfurt,2024-08-06,Returning,Silver
+CUST00502,Brett Jackson,customer502@example.com,9224124620,Howardton,2024-09-20,Returning,Bronze
+CUST00503,Charles Orozco,customer503@example.com,9461033993,Romerohaven,2024-12-25,New,Gold
+CUST00504,Antonio Marshall,customer504@example.com,9617063048,East Kathrynberg,2024-09-27,New,Platinum
+CUST00505,Bradley Fields,customer505@example.com,9325823868,Williamsmouth,2026-09-17,New,Platinum
+CUST00506,Marissa Jackson,customer506@example.com,9074946539,Brandonside,2025-07-08,New,Silver
+CUST00507,James Martinez,customer507@example.com,9284639855,Tiffanymouth,2024-08-24,Returning,Silver
+CUST00508,Erica Clark,customer508@example.com,9950209700,South Angela,2025-12-01,New,Platinum
+CUST00509,James Miller PhD,customer509@example.com,9180715695,Thompsontown,2024-03-14,Returning,Gold
+CUST00510,Corey Smith,customer510@example.com,9045319433,Coffeyton,2024-09-01,Regular,Platinum
+CUST00511,Michelle Clark,customer511@example.com,9361498728,Lake Joanne,2025-11-04,Regular,Bronze
+CUST00512,Casey Chapman,customer512@example.com,9124938430,Erinmouth,2023-11-01,Returning,Platinum
+CUST00513,Michael Santos,customer513@example.com,9566418775,Lake Jeffreyview,2026-08-01,Returning,Platinum
+CUST00514,Emily Myers,customer514@example.com,9519036133,West Lance,2025-09-15,Regular,Bronze
+CUST00515,John Morton,customer515@example.com,9954317350,Aprilbury,2026-08-29,Regular,Bronze
+CUST00516,Lisa Duran,customer516@example.com,9791100651,North Samantha,2025-02-25,New,Gold
+CUST00517,Mark Jones,customer517@example.com,9080466196,Port Carol,2025-10-22,New,Bronze
+CUST00518,James Pope,customer518@example.com,9991507859,North Curtis,2025-08-12,Returning,Bronze
+CUST00519,Richard Lee,customer519@example.com,9928456797,East Devin,2023-12-17,Regular,Bronze
+CUST00520,Kevin Palmer,customer520@example.com,9549822749,Kellytown,2025-05-19,Returning,Silver
+CUST00521,Brianna Young,customer521@example.com,9806533315,Lake Thomas,2025-11-26,Regular,Gold
+CUST00522,Michael Christian,customer522@example.com,9959465217,South Jeffreytown,2025-09-29,New,Bronze
+CUST00523,Julie Lewis,customer523@example.com,9756362050,West Anthonyville,2024-04-03,Returning,Bronze
+CUST00524,Mark Durham,customer524@example.com,9500334234,West Melanie,2024-07-25,Returning,Gold
+CUST00525,Christopher Green,customer525@example.com,9102615347,West Lisa,2025-10-23,Returning,Platinum
+CUST00526,Vanessa Cuevas,customer526@example.com,9611223386,Louischester,2026-10-04,New,Silver
+CUST00527,Angel Jensen,customer527@example.com,9384253042,Clarkland,2026-03-07,Regular,Platinum
+CUST00528,Lisa Jackson,customer528@example.com,9685787255,Baldwinfort,2025-04-01,Regular,Silver
+CUST00529,Margaret Gibbs,customer529@example.com,9033373634,Onealshire,2024-04-19,New,Silver
+CUST00530,Dawn Miller,customer530@example.com,9147853907,Ronaldmouth,2025-02-15,New,Platinum
+CUST00531,Jonathan Nelson,customer531@example.com,9027341514,Port Joshuabury,2024-02-14,Regular,Silver
+CUST00532,Andrew Gonzalez,customer532@example.com,9354443928,Alanport,2024-09-02,Returning,Silver
+CUST00533,Zachary Bautista,customer533@example.com,9907826333,Hallshire,2026-03-09,New,Platinum
+CUST00534,Miranda Murray,customer534@example.com,9153663778,West Donberg,2024-09-28,Regular,Gold
+CUST00535,Kathryn Hopkins,customer535@example.com,9553666845,New Kristenberg,2024-04-15,Returning,Gold
+CUST00536,Erin Soto,customer536@example.com,9999663618,Lopezville,2024-10-24,Regular,Bronze
+CUST00537,Margaret Torres,customer537@example.com,9218209702,North Rhonda,2024-12-25,Returning,Gold
+CUST00538,Eddie Warren,customer538@example.com,9705802566,North David,2025-01-30,Regular,Silver
+CUST00539,Jasmine Berger,customer539@example.com,9323467299,Brianahaven,2025-12-23,New,Platinum
+CUST00540,Dakota Ritter,customer540@example.com,9716938597,Fordton,2026-01-15,Returning,Gold
+CUST00541,Stanley Bryant,customer541@example.com,9469263296,Cruzburgh,2025-12-03,Regular,Platinum
+CUST00542,Michael Williams,customer542@example.com,9248413768,West Charlesville,2025-05-04,Regular,Gold
+CUST00543,Jennifer Martin,customer543@example.com,9380701765,Foleyfurt,2023-12-10,Returning,Gold
+CUST00544,Michael Taylor,customer544@example.com,9777118372,Hooverburgh,2024-05-03,New,Platinum
+CUST00545,Brian Phillips,customer545@example.com,9862104275,East Jennifer,2026-07-04,Returning,Bronze
+CUST00546,Jessica Williams,customer546@example.com,9816470900,Wangbury,2024-12-13,New,Platinum
+CUST00547,Brandon Fisher,customer547@example.com,9053131220,Huntmouth,2024-10-17,Regular,Gold
+CUST00548,Lori Villa,customer548@example.com,9661331552,South Destinytown,2024-12-29,Regular,Gold
+CUST00549,Austin Briggs,customer549@example.com,9950136497,Lake Amandashire,2024-05-04,Regular,Gold
+CUST00550,Lindsay Jarvis,customer550@example.com,9625257150,Reyesbury,2025-05-03,New,Platinum
+CUST00551,Alexis Smith,customer551@example.com,9143639102,Victorborough,2024-04-13,Returning,Bronze
+CUST00552,Andrew Mclean,customer552@example.com,9975245086,Karenbury,2026-05-15,Regular,Bronze
+CUST00553,David Ryan,customer553@example.com,9339685270,Port Travisborough,2023-12-26,Regular,Platinum
+CUST00554,Teresa Martinez MD,customer554@example.com,9833816742,East Roger,2025-08-24,Returning,Silver
+CUST00555,Kenneth Faulkner,customer555@example.com,9347156627,Hendersonchester,2026-02-09,Regular,Gold
+CUST00556,Rebecca Smith,customer556@example.com,9661498282,Oscarport,2025-03-10,New,Silver
+CUST00557,Larry Jones,customer557@example.com,9273230085,Sullivanchester,2026-08-25,Regular,Gold
+CUST00558,Jacqueline Burns,customer558@example.com,9916016923,Kruegerstad,2025-05-10,Regular,Silver
+CUST00559,Michael Horton DDS,customer559@example.com,9633705024,Blackburnberg,2024-08-03,Regular,Bronze
+CUST00560,Tiffany Skinner,customer560@example.com,9011669183,Martinchester,2024-08-02,Regular,Bronze
+CUST00561,Walter Barrett,customer561@example.com,9694611952,Kaitlynfurt,2025-12-04,Returning,Platinum
+CUST00562,Christopher Vasquez,customer562@example.com,9116864622,Jacobberg,2024-06-03,New,Gold
+CUST00563,Travis Hayes,customer563@example.com,9323023467,Port Danaland,2024-09-15,Regular,Silver
+CUST00564,Donald Peterson,customer564@example.com,9937710040,North Jasontown,2024-12-14,New,Gold
+CUST00565,Tonya Adams,customer565@example.com,9775965555,West Elizabeth,2024-12-17,Returning,Platinum
+CUST00566,Henry Rivera,customer566@example.com,9107620918,Stephaniebury,2024-12-06,New,Silver
+CUST00567,Mary Alvarez,customer567@example.com,9630505057,New Todd,2026-01-17,New,Gold
+CUST00568,Hannah Crosby,customer568@example.com,9716493289,East Tylerland,2024-09-24,Regular,Gold
+CUST00569,Kimberly Baxter,customer569@example.com,9271783332,North Ryantown,2024-04-22,New,Gold
+CUST00570,Stephanie Miranda,customer570@example.com,9347128715,New Katie,2025-08-18,Returning,Gold
+CUST00571,Jamie Love,customer571@example.com,9686334141,North Matthewshire,2026-08-22,Regular,Gold
+CUST00572,Audrey Richardson,customer572@example.com,9569040983,Whitneymouth,2026-02-21,New,Platinum
+CUST00573,Taylor Martinez,customer573@example.com,9993160875,Port Sherri,2026-05-04,New,Silver
+CUST00574,Mr. Kyle Thomas DDS,customer574@example.com,9095481497,South Kelly,2026-09-23,New,Platinum
+CUST00575,Robert Hernandez,customer575@example.com,9330276420,Rogersfort,2026-10-19,Regular,Gold
+CUST00576,Jeanne Rose,customer576@example.com,9443861259,Port Sarahport,2025-03-14,New,Platinum
+CUST00577,Chad Dominguez,customer577@example.com,9423330591,South Stephanie,2025-02-09,New,Gold
+CUST00578,Tammy Davis,customer578@example.com,9720185962,Sanchezville,2024-07-19,Regular,Bronze
+CUST00579,Michael Blevins DDS,customer579@example.com,9617647501,North Davidhaven,2024-07-02,Returning,Gold
+CUST00580,Victoria Mendoza,customer580@example.com,9192676492,West Bryanside,2024-05-19,Regular,Gold
+CUST00581,Alicia Hawkins,customer581@example.com,9887189813,East Michelleburgh,2023-11-04,Regular,Platinum
+CUST00582,Ernest Williams,customer582@example.com,9932184011,Michaelside,2024-05-05,Regular,Gold
+CUST00583,Mary Wright,customer583@example.com,9084872975,Catherinehaven,2024-06-15,New,Silver
+CUST00584,Robert Young,customer584@example.com,9324329839,Joshuachester,2024-01-19,Returning,Bronze
+CUST00585,James Mckee,customer585@example.com,9671462831,Wandaborough,2025-12-21,Regular,Gold
+CUST00586,Maria Dixon,customer586@example.com,9262566093,West Davidville,2025-11-17,Regular,Silver
+CUST00587,Gary Davis,customer587@example.com,9542340163,Lynnville,2024-05-09,Regular,Bronze
+CUST00588,Elizabeth Nicholson,customer588@example.com,9718594849,North Georgefurt,2024-05-15,Regular,Platinum
+CUST00589,Megan Kramer,customer589@example.com,9896792408,Lake David,2024-12-18,Regular,Gold
+CUST00590,Amy Swanson,customer590@example.com,9539672757,Joshuachester,2025-05-22,Regular,Platinum
+CUST00591,Tammy Perez,customer591@example.com,9146511131,New Brian,2026-01-21,New,Silver
+CUST00592,Katherine Baxter,customer592@example.com,9682778816,New Jamestown,2025-12-20,New,Bronze
+CUST00593,Nicole Sanchez,customer593@example.com,9890972832,West Maryhaven,2024-11-20,Returning,Platinum
+CUST00594,Jon Jackson,customer594@example.com,9153814474,Jasonshire,2025-01-03,New,Bronze
+CUST00595,Tanya Haley,customer595@example.com,9807970509,Murphystad,2024-02-24,New,Silver
+CUST00596,Nathan Morales,customer596@example.com,9016731882,Martinezfort,2023-11-06,Returning,Platinum
+CUST00597,Danielle Ruiz,customer597@example.com,9545628417,Martinstad,2026-01-25,Returning,Platinum
+CUST00598,Stephen Fletcher,customer598@example.com,9134026650,Lake James,2025-04-07,Regular,Silver
+CUST00599,Deborah Fisher,customer599@example.com,9872568621,Port Andrewberg,2024-11-10,Returning,Bronze
+CUST00600,Michael Williams,customer600@example.com,9569067447,Port Royberg,2026-01-06,Returning,Platinum
+CUST00601,Douglas Wilson,customer601@example.com,9436371892,Port Brittany,2025-09-24,Returning,Bronze
+CUST00602,Carlos Johnson,customer602@example.com,9326093106,Warrenbury,2024-06-29,Regular,Gold
+CUST00603,Antonio Simmons,customer603@example.com,9041454563,Pattyburgh,2023-12-13,New,Platinum
+CUST00604,Patrick Lewis,customer604@example.com,9749162475,Kevinville,2025-11-01,Returning,Silver
+CUST00605,Patricia Anderson,customer605@example.com,9559895343,Millerville,2024-03-21,Returning,Bronze
+CUST00606,Barbara Willis,customer606@example.com,9337118954,Mayoborough,2025-06-05,Regular,Gold
+CUST00607,Carl Barnes,customer607@example.com,9485571617,Millshaven,2026-03-14,Regular,Gold
+CUST00608,Donald Ponce,customer608@example.com,9409036788,East Samuelhaven,2024-12-24,New,Platinum
+CUST00609,Jennifer Nelson,customer609@example.com,9202939087,Kevinbury,2024-09-18,Returning,Silver
+CUST00610,Bryan Walker,customer610@example.com,9834024240,Port Jason,2024-03-05,New,Platinum
+CUST00611,Mackenzie Compton,customer611@example.com,9518426945,Lake Lisastad,2024-06-26,New,Silver
+CUST00612,Cassandra Bonilla,customer612@example.com,9891649837,West Joseph,2025-07-28,Regular,Bronze
+CUST00613,Nicole Moore,customer613@example.com,9365271727,Port Michelle,2024-05-23,New,Gold
+CUST00614,Nicholas Holland Jr.,customer614@example.com,9226931216,South Regina,2026-09-27,New,Silver
+CUST00615,Joseph Acosta,customer615@example.com,9091660100,East Kayla,2024-08-18,Regular,Silver
+CUST00616,Linda Sparks,customer616@example.com,9018513279,Ochoaport,2024-10-27,New,Silver
+CUST00617,Anthony Holt,customer617@example.com,9810018418,Thomasbury,2023-11-25,Regular,Silver
+CUST00618,Charles Rios,customer618@example.com,9361721314,Charlesmouth,2024-03-07,New,Gold
+CUST00619,Tamara Huang,customer619@example.com,9922685926,Lake Gloria,2025-09-13,New,Bronze
+CUST00620,Shawn Nelson,customer620@example.com,9754102252,Griffinfort,2026-04-09,Returning,Silver
+CUST00621,Jeffrey Acosta,customer621@example.com,9215226557,Olsonchester,2025-08-19,New,Gold
+CUST00622,Brenda Raymond,customer622@example.com,9366878878,South Christopher,2025-12-21,New,Bronze
+CUST00623,Paula Shepherd,customer623@example.com,9313503058,Rosarioville,2024-01-03,Regular,Bronze
+CUST00624,Samuel Delacruz,customer624@example.com,9247286333,Lake Devinberg,2024-12-16,New,Bronze
+CUST00625,Vincent Watson,customer625@example.com,9191792025,North John,2023-11-12,Returning,Silver
+CUST00626,Jennifer Cannon,customer626@example.com,9728476570,Danielton,2026-06-21,Regular,Gold
+CUST00627,Paul Gordon,customer627@example.com,9066784984,South Sarah,2024-08-22,New,Silver
+CUST00628,James Tapia,customer628@example.com,9369036289,Port Heatherfort,2024-10-07,Returning,Bronze
+CUST00629,Samantha Martin,customer629@example.com,9563411159,Anthonyport,2024-04-25,New,Platinum
+CUST00630,Daniel Smith,customer630@example.com,9438303419,New Valeriefort,2023-12-19,Regular,Bronze
+CUST00631,Tony Smith,customer631@example.com,9546835652,West Richardhaven,2024-02-17,Regular,Bronze
+CUST00632,Brittany Matthews,customer632@example.com,9679042271,Lake Jesseborough,2026-04-01,Returning,Platinum
+CUST00633,Patricia Martin,customer633@example.com,9889857254,Cindychester,2023-12-12,Returning,Bronze
+CUST00634,Melanie Allen,customer634@example.com,9991297102,Amyland,2025-04-28,Returning,Silver
+CUST00635,Christopher Phillips,customer635@example.com,9149551127,Valerieview,2026-02-12,Regular,Bronze
+CUST00636,Thomas Case,customer636@example.com,9970546692,Richardsonmouth,2024-12-12,Regular,Gold
+CUST00637,Katie Baker,customer637@example.com,9090380214,Moorefurt,2026-05-22,Returning,Bronze
+CUST00638,Shane Caldwell,customer638@example.com,9577871121,Tateborough,2025-01-12,New,Platinum
+CUST00639,Grant Munoz,customer639@example.com,9371470827,Lake Jason,2025-07-13,Returning,Platinum
+CUST00640,Patricia Brown PhD,customer640@example.com,9673030644,North Donald,2024-08-25,Regular,Bronze
+CUST00641,Shane Hayes,customer641@example.com,9683420165,Franklinstad,2026-08-27,Returning,Platinum
+CUST00642,Mr. Richard Sheppard,customer642@example.com,9659608931,West Elizabeth,2026-04-19,New,Bronze
+CUST00643,Samantha Quinn,customer643@example.com,9027275164,South Sherryberg,2025-09-24,Returning,Silver
+CUST00644,Laura Johnson,customer644@example.com,9368296353,Lake Barbara,2023-11-14,New,Silver
+CUST00645,Alexis Mosley,customer645@example.com,9817766558,Millsmouth,2024-03-02,Returning,Gold
+CUST00646,Jeffrey Thompson,customer646@example.com,9928664649,North Lindaville,2024-02-05,Returning,Gold
+CUST00647,Timothy Garcia,customer647@example.com,9981789046,East Kimberly,2025-06-25,Returning,Platinum
+CUST00648,Scott Sampson,customer648@example.com,9576605384,Nicholeview,2024-09-30,New,Bronze
+CUST00649,Susan Nunez,customer649@example.com,9060002589,Matthewshire,2026-10-22,Regular,Silver
+CUST00650,William Lee,customer650@example.com,9609626265,South Jerry,2025-12-16,Returning,Platinum
+CUST00651,Bryan Ray,customer651@example.com,9648253110,Smithshire,2024-04-14,New,Platinum
+CUST00652,Kimberly Compton,customer652@example.com,9960275233,Jamesbury,2026-01-03,Returning,Platinum
+CUST00653,Jamie Green,customer653@example.com,9041209117,North Donaldview,2026-07-06,Returning,Platinum
+CUST00654,Johnny Ward,customer654@example.com,9361706171,Lake Robert,2026-07-01,Regular,Bronze
+CUST00655,Joanne Martin,customer655@example.com,9402990155,Cooleyside,2023-11-04,Returning,Platinum
+CUST00656,Dawn Martinez,customer656@example.com,9908088235,East Anthonyberg,2024-06-26,Returning,Gold
+CUST00657,Teresa Adams,customer657@example.com,9731584776,Nielsenview,2024-05-06,Returning,Silver
+CUST00658,Stacy Campbell,customer658@example.com,9619942376,Hendersonview,2026-04-11,Regular,Platinum
+CUST00659,Lisa Patterson,customer659@example.com,9955172084,Carterhaven,2024-11-19,New,Bronze
+CUST00660,Christopher Morris,customer660@example.com,9253135525,North Lucastown,2025-12-23,New,Bronze
+CUST00661,Keith Morris,customer661@example.com,9381649383,New Joshualand,2025-07-20,Returning,Bronze
+CUST00662,Melanie Graham,customer662@example.com,9533077046,North Shawnmouth,2025-08-07,Regular,Gold
+CUST00663,Alex Smith,customer663@example.com,9907426088,West Deannaland,2025-03-28,New,Bronze
+CUST00664,Jennifer Turner,customer664@example.com,9556185790,Evansmouth,2025-04-22,Regular,Gold
+CUST00665,Susan Cameron,customer665@example.com,9910300215,Perezland,2024-05-26,Regular,Bronze
+CUST00666,Jackie Leach,customer666@example.com,9004010414,Haileyfurt,2024-08-20,Returning,Gold
+CUST00667,Chad Murray,customer667@example.com,9252967188,New Timothy,2025-04-19,Regular,Platinum
+CUST00668,Raymond Webb,customer668@example.com,9144158331,South Briantown,2025-11-02,Regular,Bronze
+CUST00669,James Freeman,customer669@example.com,9539885472,East Jefferystad,2024-12-25,Returning,Gold
+CUST00670,Marc Harris,customer670@example.com,9631462491,South Nancy,2026-01-23,Returning,Bronze
+CUST00671,Steven Lopez,customer671@example.com,9078754181,Ryanberg,2025-01-07,Regular,Silver
+CUST00672,Gene Alexander,customer672@example.com,9510663436,New Joshua,2025-08-25,New,Platinum
+CUST00673,Ashley Williams,customer673@example.com,9313100943,New Craigbury,2026-06-23,New,Bronze
+CUST00674,Jennifer Long,customer674@example.com,9347323549,Jessicaville,2024-05-19,Returning,Gold
+CUST00675,Lisa Stevenson,customer675@example.com,9325122572,Lake Thomasmouth,2023-11-21,New,Gold
+CUST00676,Sierra Jackson,customer676@example.com,9095790737,North Lorishire,2025-11-13,Regular,Silver
+CUST00677,Darren Gordon,customer677@example.com,9211457758,Elizabethview,2024-12-02,Returning,Bronze
+CUST00678,Harold Mckinney,customer678@example.com,9897148026,Lake Virginia,2024-11-24,Regular,Gold
+CUST00679,Kenneth Dominguez,customer679@example.com,9653136148,Archerhaven,2024-05-08,New,Silver
+CUST00680,Hannah Rivera,customer680@example.com,9964430985,South Laurashire,2026-09-25,Returning,Gold
+CUST00681,Donna Montes,customer681@example.com,9727284982,Tommyland,2026-03-24,Returning,Gold
+CUST00682,Andrew Campbell,customer682@example.com,9910740650,West Devinport,2026-03-08,New,Silver
+CUST00683,Tina Castro,customer683@example.com,9142369143,South Sarahbury,2026-04-06,New,Platinum
+CUST00684,Jenny Rasmussen,customer684@example.com,9144942965,Lake Katrina,2024-07-30,New,Silver
+CUST00685,Curtis Torres,customer685@example.com,9497826612,Bensonhaven,2026-08-19,Regular,Bronze
+CUST00686,Julie Patterson,customer686@example.com,9667080612,Kristinshire,2025-05-13,New,Silver
+CUST00687,Joshua Cunningham,customer687@example.com,9406260787,North Brianville,2024-10-29,Returning,Platinum
+CUST00688,Dylan Olson,customer688@example.com,9501980382,Taylorberg,2024-09-23,Returning,Gold
+CUST00689,William Smith,customer689@example.com,9793110291,East Jamesfort,2023-11-26,New,Gold
+CUST00690,Jeanette Howe,customer690@example.com,9467238497,South Dustintown,2024-05-19,Returning,Gold
+CUST00691,Mary Jackson,customer691@example.com,9837744197,Elizabethfurt,2024-12-25,Regular,Bronze
+CUST00692,Julie Li,customer692@example.com,9204719609,Austinmouth,2023-12-15,New,Silver
+CUST00693,Tonya Mcdonald,customer693@example.com,9740258835,Palmerburgh,2025-10-17,New,Bronze
+CUST00694,Nathan Morgan,customer694@example.com,9244617679,New Jeanette,2025-05-07,Regular,Bronze
+CUST00695,Deanna Wolfe,customer695@example.com,9995996100,East Colin,2024-02-23,Returning,Platinum
+CUST00696,Karen Wolf,customer696@example.com,9312661094,North Melanieland,2025-02-24,Regular,Platinum
+CUST00697,Mark Johnson,customer697@example.com,9251762983,West Travis,2025-11-12,Returning,Platinum
+CUST00698,Patrick Hamilton,customer698@example.com,9831901302,West Kimshire,2025-06-20,Returning,Gold
+CUST00699,Cody Blair,customer699@example.com,9873397855,Port Carlos,2025-02-09,New,Bronze
+CUST00700,Benjamin Miller,customer700@example.com,9841173098,Andrewport,2026-08-05,Returning,Platinum
+CUST00701,Michael Jones,customer701@example.com,9241893898,Reginaldton,2025-06-19,New,Gold
+CUST00702,Lauren Giles,customer702@example.com,9400564350,East Amy,2026-01-11,Regular,Platinum
+CUST00703,Mary Johns,customer703@example.com,9371990516,New Timothyberg,2024-08-21,Regular,Gold
+CUST00704,Andrew Romero,customer704@example.com,9567430003,Flemingtown,2025-06-26,New,Silver
+CUST00705,Ralph Dominguez,customer705@example.com,9668217195,Jameschester,2026-08-01,Returning,Bronze
+CUST00706,Brandon Smith,customer706@example.com,9689003010,South Henry,2023-12-16,New,Silver
+CUST00707,Matthew Sanchez,customer707@example.com,9429671114,South Janet,2026-04-08,Returning,Silver
+CUST00708,Shannon Wallace,customer708@example.com,9458438458,North Michaelchester,2025-12-11,New,Gold
+CUST00709,Diana Harris,customer709@example.com,9283483152,East Hollymouth,2026-09-08,Returning,Gold
+CUST00710,Russell Nelson,customer710@example.com,9964104967,Port Patrickmouth,2023-12-17,New,Bronze
+CUST00711,Cody Jordan,customer711@example.com,9040850954,Port Anthony,2026-01-02,Returning,Platinum
+CUST00712,Sharon Patton,customer712@example.com,9018648769,Franciscofurt,2025-03-25,New,Silver
+CUST00713,Cynthia Velez MD,customer713@example.com,9413845960,Michaelview,2026-03-05,Returning,Silver
+CUST00714,Lisa Martinez,customer714@example.com,9954277070,Johnsonstad,2025-04-08,Regular,Gold
+CUST00715,Claudia Brown,customer715@example.com,9149851724,Jordanfort,2024-03-17,New,Platinum
+CUST00716,Bridget Williamson,customer716@example.com,9031028795,New Jenniferton,2026-09-07,Regular,Bronze
+CUST00717,Vanessa Smith DVM,customer717@example.com,9580935118,Wilsonland,2024-07-15,Returning,Bronze
+CUST00718,Jacob Carson,customer718@example.com,9616420595,Theresastad,2025-03-28,Returning,Bronze
+CUST00719,Lisa Martin,customer719@example.com,9042901935,Shelbyfurt,2026-04-27,Returning,Platinum
+CUST00720,Nicholas James,customer720@example.com,9113989868,Port Natalieton,2025-08-25,Regular,Platinum
+CUST00721,Kelly Stewart,customer721@example.com,9394353537,Kaitlinville,2025-11-27,Regular,Platinum
+CUST00722,Tyler Ortiz,customer722@example.com,9158815793,Hartmanbury,2025-07-14,Returning,Bronze
+CUST00723,Beth Medina,customer723@example.com,9692944551,South Robertberg,2025-07-22,Returning,Bronze
+CUST00724,Patricia Yoder,customer724@example.com,9702164871,Port Austin,2025-02-13,Returning,Silver
+CUST00725,Wanda Anderson,customer725@example.com,9866526834,West Phyllismouth,2025-08-08,Regular,Platinum
+CUST00726,Wendy Williams,customer726@example.com,9576764722,East Paulashire,2025-08-09,Regular,Gold
+CUST00727,Jody Flores,customer727@example.com,9289413475,New Zacharyhaven,2025-07-26,New,Platinum
+CUST00728,Jessica Morris,customer728@example.com,9522036849,Coryport,2024-04-28,New,Silver
+CUST00729,John Walker,customer729@example.com,9244913421,New Mary,2026-02-03,Returning,Platinum
+CUST00730,Steven Moyer,customer730@example.com,9883070534,Dennishaven,2024-03-16,Regular,Bronze
+CUST00731,Thomas Moran,customer731@example.com,9176741241,Lindabury,2026-01-04,Returning,Gold
+CUST00732,Jonathon Hill,customer732@example.com,9815061853,Lake Courtneybury,2024-03-28,Regular,Gold
+CUST00733,Tony Nunez,customer733@example.com,9472727423,New Mercedesborough,2023-11-02,New,Gold
+CUST00734,Justin Clark,customer734@example.com,9206496935,Morenoburgh,2026-06-18,New,Bronze
+CUST00735,Sheri Contreras,customer735@example.com,9769587413,Port Kathrynchester,2026-09-26,Regular,Bronze
+CUST00736,Matthew Wilson,customer736@example.com,9751562779,Mcdanieltown,2024-09-12,Regular,Silver
+CUST00737,Stacy Patton,customer737@example.com,9085456676,Greenton,2024-08-19,Returning,Gold
+CUST00738,Gina Cardenas,customer738@example.com,9476392831,Davidside,2023-11-20,Regular,Silver
+CUST00739,Rebekah Davis,customer739@example.com,9558108358,East Mary,2025-01-05,New,Bronze
+CUST00740,Donna Martin,customer740@example.com,9556383000,New Raymondfort,2023-12-15,New,Gold
+CUST00741,Alexander Welch,customer741@example.com,9304166241,North Williamchester,2023-11-21,New,Silver
+CUST00742,Kimberly Ellison,customer742@example.com,9196394568,West Joshuaborough,2024-02-16,Regular,Silver
+CUST00743,Laura Bennett,customer743@example.com,9613684748,South Andre,2025-04-26,Regular,Bronze
+CUST00744,Jake Payne,customer744@example.com,9173906375,Hartport,2024-10-28,New,Platinum
+CUST00745,Vanessa Davis,customer745@example.com,9237931269,Millsshire,2026-02-09,Returning,Platinum
+CUST00746,Johnny Jenkins,customer746@example.com,9520599604,Port Anna,2025-04-17,Regular,Gold
+CUST00747,Dr. David Murray MD,customer747@example.com,9811616202,East Jamesville,2023-12-11,Regular,Gold
+CUST00748,Christopher Pratt,customer748@example.com,9728660416,Jenniferview,2025-05-24,New,Platinum
+CUST00749,Jacqueline Santos,customer749@example.com,9248395894,Fordmouth,2026-08-11,New,Platinum
+CUST00750,Sarah Taylor,customer750@example.com,9870562271,West Jacquelineborough,2025-11-28,Returning,Gold
+CUST00751,Erin Brown,customer751@example.com,9792158350,West Justin,2026-07-25,Returning,Bronze
+CUST00752,Nicholas Richardson,customer752@example.com,9648831921,West Gregory,2025-07-08,Returning,Bronze
+CUST00753,Joseph Newman,customer753@example.com,9659994973,North Krista,2026-10-18,Returning,Platinum
+CUST00754,Robert Thomas,customer754@example.com,9270510287,Ortegamouth,2024-09-25,Returning,Bronze
+CUST00755,Cynthia Long,customer755@example.com,9675485819,East Sonia,2026-04-30,New,Gold
+CUST00756,Sara Castro,customer756@example.com,9741865205,Townsendstad,2026-01-05,Returning,Bronze
+CUST00757,Justin Cuevas,customer757@example.com,9365203758,North Brenda,2024-10-23,Regular,Bronze
+CUST00758,Sydney Shaw,customer758@example.com,9094047604,Colleenshire,2026-04-19,Regular,Platinum
+CUST00759,Tanya Osborn,customer759@example.com,9772781050,Lake Jill,2026-06-10,Returning,Bronze
+CUST00760,Jason Singleton,customer760@example.com,9070518439,West Marymouth,2026-07-09,Returning,Silver
+CUST00761,William Bowen,customer761@example.com,9580660138,Lake Joseph,2024-05-06,Returning,Platinum
+CUST00762,Lee Barker,customer762@example.com,9620448515,Carrollland,2025-07-11,Regular,Silver
+CUST00763,Brian Davis,customer763@example.com,9125902035,Millerbury,2024-10-01,New,Platinum
+CUST00764,Terri Hancock,customer764@example.com,9240642429,Robertborough,2024-08-23,New,Gold
+CUST00765,William Green,customer765@example.com,9741759558,Gallegosburgh,2023-12-09,Regular,Bronze
+CUST00766,Janice Medina,customer766@example.com,9365435884,New Kiaraview,2024-06-25,Regular,Silver
+CUST00767,Thomas Holmes,customer767@example.com,9272795596,West Jacquelinestad,2026-06-08,New,Silver
+CUST00768,Jason Cook,customer768@example.com,9125427820,Lambmouth,2025-08-10,Regular,Platinum
+CUST00769,Monica Wells,customer769@example.com,9345957640,Port Sarah,2026-08-10,Returning,Silver
+CUST00770,Jeffery Adams,customer770@example.com,9969028249,New Karen,2024-03-20,Returning,Gold
+CUST00771,Tyler Waller,customer771@example.com,9425762702,East Kevin,2024-01-26,Returning,Platinum
+CUST00772,Dalton Davis,customer772@example.com,9328507251,Piercefurt,2025-12-03,Returning,Gold
+CUST00773,Mary Guerra,customer773@example.com,9316252654,Carlsonside,2024-01-16,Regular,Bronze
+CUST00774,Patrick Willis II,customer774@example.com,9923555809,Melendezbury,2024-03-29,Regular,Gold
+CUST00775,Daniel Graham,customer775@example.com,9562624467,West Susanchester,2024-05-13,New,Gold
+CUST00776,Joseph Rodriguez,customer776@example.com,9151602529,Parkstown,2025-04-14,New,Platinum
+CUST00777,Jennifer Wise,customer777@example.com,9464197857,Meganstad,2024-02-29,Returning,Gold
+CUST00778,Jeff Malone,customer778@example.com,9120594389,Grahammouth,2024-09-02,Regular,Silver
+CUST00779,John Richardson,customer779@example.com,9954654084,West Michael,2023-11-18,Returning,Bronze
+CUST00780,Mark Larson,customer780@example.com,9508632181,Lake Duane,2025-04-22,Regular,Silver
+CUST00781,Haley Ellis,customer781@example.com,9938970155,East Chelseaville,2024-12-21,Returning,Gold
+CUST00782,Mrs. Tammy Curry,customer782@example.com,9660241613,Wandahaven,2025-06-11,Regular,Platinum
+CUST00783,Melissa Williams,customer783@example.com,9973642480,Browningport,2024-08-23,New,Bronze
+CUST00784,Albert Perry,customer784@example.com,9244795133,Lake Markland,2025-08-30,Returning,Platinum
+CUST00785,Lisa Murray,customer785@example.com,9695867805,Luismouth,2024-04-13,Regular,Gold
+CUST00786,Kathryn Patel,customer786@example.com,9264609178,Christopherhaven,2024-12-07,New,Bronze
+CUST00787,Ethan Craig,customer787@example.com,9029929596,Forbestown,2026-01-30,Regular,Platinum
+CUST00788,Patrick Fritz,customer788@example.com,9682691163,North Ashley,2024-05-12,Regular,Gold
+CUST00789,Richard Navarro,customer789@example.com,9686536945,Crystalmouth,2025-05-02,New,Gold
+CUST00790,Courtney Powell,customer790@example.com,9747226408,Kathrynburgh,2025-11-16,Returning,Silver
+CUST00791,Kevin Barnes,customer791@example.com,9663093299,New Ashleychester,2026-08-31,New,Gold
+CUST00792,David Hudson,customer792@example.com,9715096883,South Miguel,2026-06-14,Returning,Silver
+CUST00793,Timothy Morse,customer793@example.com,9524103977,Lake Carrie,2026-10-18,New,Silver
+CUST00794,Valerie Porter,customer794@example.com,9195237100,Camachofort,2026-05-31,New,Bronze
+CUST00795,Jason Green,customer795@example.com,9819807704,Claytonton,2024-12-01,Returning,Bronze
+CUST00796,Kayla Banks,customer796@example.com,9611249125,Douglasberg,2026-07-26,Regular,Bronze
+CUST00797,Christine Davis,customer797@example.com,9177345475,Lyonsshire,2024-08-26,Regular,Gold
+CUST00798,Charles Boyd,customer798@example.com,9035954429,Thomasmouth,2025-11-05,Regular,Silver
+CUST00799,Robert Anderson,customer799@example.com,9946430394,New Alexander,2024-12-02,Regular,Platinum
+CUST00800,Sheila Black,customer800@example.com,9792529858,Nicholasfort,2025-10-09,New,Silver
+CUST00801,Karen Webb,customer801@example.com,9601534332,Charlotteville,2025-10-11,New,Silver
+CUST00802,Joe Durham,customer802@example.com,9083350615,West Angelaside,2026-05-14,Regular,Platinum
+CUST00803,Angela Yates,customer803@example.com,9798334233,Thompsonview,2025-06-25,New,Platinum
+CUST00804,Colton Rivas,customer804@example.com,9128403339,Marshallside,2026-06-22,Returning,Silver
+CUST00805,Richard Jones,customer805@example.com,9717173189,New Tony,2025-07-14,Returning,Gold
+CUST00806,Shannon Rodriguez,customer806@example.com,9739970469,Travisburgh,2024-10-24,Regular,Platinum
+CUST00807,Mr. Matthew Baker,customer807@example.com,9835488471,South Adam,2026-07-05,New,Silver
+CUST00808,Kathleen White,customer808@example.com,9641758231,East Kyle,2024-09-28,Returning,Platinum
+CUST00809,Kaitlyn Cohen,customer809@example.com,9939252362,New Elaine,2024-10-20,New,Gold
+CUST00810,Kara Larson,customer810@example.com,9643474524,Jessicamouth,2025-03-05,Regular,Platinum
+CUST00811,James Butler,customer811@example.com,9606527403,Lake Jennifer,2024-09-17,Returning,Gold
+CUST00812,Frank Gibbs,customer812@example.com,9588339874,North Johnmouth,2025-12-30,Returning,Platinum
+CUST00813,Leslie Crane,customer813@example.com,9067349960,North Danielleview,2025-06-10,New,Silver
+CUST00814,Duane Ruiz,customer814@example.com,9156229493,South Johnshire,2025-06-20,Regular,Silver
+CUST00815,Kristin Roth,customer815@example.com,9021557325,Perezstad,2024-10-28,Returning,Bronze
+CUST00816,Michele Scott,customer816@example.com,9021666708,New Nathanielshire,2025-02-20,Regular,Platinum
+CUST00817,Jonathan Yates,customer817@example.com,9874951191,New Erichaven,2026-05-14,Returning,Bronze
+CUST00818,Thomas Bishop,customer818@example.com,9316477251,Lake Barbara,2025-03-10,Regular,Bronze
+CUST00819,Nancy Fry,customer819@example.com,9069409600,West Ronald,2024-08-08,Returning,Bronze
+CUST00820,Michael Nguyen,customer820@example.com,9739592323,Huntertown,2025-06-05,New,Gold
+CUST00821,Amanda Anderson,customer821@example.com,9515533342,Ritterbury,2026-08-21,Returning,Silver
+CUST00822,Henry Taylor,customer822@example.com,9716073607,Rossborough,2026-02-20,Returning,Bronze
+CUST00823,Belinda Costa,customer823@example.com,9898123179,Karamouth,2025-01-26,New,Platinum
+CUST00824,Brandon Hunter,customer824@example.com,9748170066,Nixonville,2024-11-21,Returning,Bronze
+CUST00825,Sara Hamilton,customer825@example.com,9431670450,Port John,2025-07-09,Returning,Bronze
+CUST00826,Christopher Neal,customer826@example.com,9009345962,Thompsonhaven,2026-09-21,Returning,Gold
+CUST00827,Rita White,customer827@example.com,9120734654,Anthonytown,2024-10-27,New,Platinum
+CUST00828,Amanda Wiggins,customer828@example.com,9608698221,West Phyllisland,2025-02-01,New,Gold
+CUST00829,Wayne Marshall,customer829@example.com,9687290477,Davidside,2024-12-03,New,Bronze
+CUST00830,Michelle Woods,customer830@example.com,9932382231,Lake Richardville,2024-07-29,Returning,Bronze
+CUST00831,Nicholas Turner,customer831@example.com,9798894256,Donnashire,2026-01-14,Regular,Gold
+CUST00832,Nicole Marsh,customer832@example.com,9032020326,Alexanderfort,2025-04-12,New,Silver
+CUST00833,Mark Montoya,customer833@example.com,9967379487,Lake Joshuahaven,2026-08-07,New,Gold
+CUST00834,Steven Scott,customer834@example.com,9787158415,Mayside,2024-03-16,Returning,Silver
+CUST00835,Jim Rodriguez,customer835@example.com,9842547681,South Lori,2026-06-26,Regular,Platinum
+CUST00836,Brenda Becker,customer836@example.com,9035892988,Port Amandaside,2024-07-08,Returning,Bronze
+CUST00837,Kiara Brooks,customer837@example.com,9129328963,Brandonfurt,2024-09-18,New,Bronze
+CUST00838,Valerie English,customer838@example.com,9752401484,Lake Christie,2026-09-15,Returning,Silver
+CUST00839,Jason Thomas,customer839@example.com,9236266933,Chadview,2024-03-31,New,Platinum
+CUST00840,Nicholas Willis,customer840@example.com,9237245018,Alexandriafort,2024-07-10,New,Gold
+CUST00841,Rodney Weaver,customer841@example.com,9972154064,Lake Stevenshire,2024-05-01,New,Gold
+CUST00842,Sharon Freeman,customer842@example.com,9438119953,Copelandchester,2025-02-03,New,Bronze
+CUST00843,Sharon Ramirez,customer843@example.com,9448564510,Lake Lindabury,2025-08-02,New,Platinum
+CUST00844,Jeffrey Baker,customer844@example.com,9789969860,New Maryville,2025-07-21,Regular,Platinum
+CUST00845,Phillip Ward,customer845@example.com,9966057798,South Lisachester,2025-11-01,New,Bronze
+CUST00846,Keith Johnson,customer846@example.com,9514607455,Teresabury,2024-08-28,Returning,Bronze
+CUST00847,Erika Lyons,customer847@example.com,9423885652,Gatesmouth,2024-11-18,Regular,Silver
+CUST00848,Renee Church,customer848@example.com,9541165972,Harrisfort,2024-11-17,Regular,Silver
+CUST00849,Stephanie Fischer,customer849@example.com,9250139488,Katherineside,2024-05-11,Returning,Platinum
+CUST00850,Angela Davis,customer850@example.com,9964258562,Garciaport,2025-09-01,New,Gold
+CUST00851,Erica Walker,customer851@example.com,9038240733,East Scott,2026-04-06,New,Platinum
+CUST00852,Edward Oconnell,customer852@example.com,9977688936,Port April,2025-01-09,New,Bronze
+CUST00853,Stephanie Hughes,customer853@example.com,9454655358,Chaseberg,2024-10-16,Regular,Gold
+CUST00854,Michaela Pope,customer854@example.com,9921878519,Lake Michael,2025-12-07,New,Bronze
+CUST00855,Samantha Walker,customer855@example.com,9490797796,East Andrewmouth,2025-07-03,Returning,Platinum
+CUST00856,Gregory Dillon,customer856@example.com,9215149409,Jordanberg,2026-10-14,New,Platinum
+CUST00857,Jesse Ryan,customer857@example.com,9453986289,Michelleton,2025-12-18,Returning,Gold
+CUST00858,Bryan Madden,customer858@example.com,9918623392,North Debra,2025-04-24,Regular,Bronze
+CUST00859,Brandon Shah,customer859@example.com,9966672521,Michaelchester,2026-06-19,Returning,Bronze
+CUST00860,Mr. James Perez DVM,customer860@example.com,9157184090,Lake Nathanielburgh,2023-10-31,Returning,Silver
+CUST00861,Mrs. Erin Torres,customer861@example.com,9995123972,West Collin,2025-11-16,Regular,Bronze
+CUST00862,James Thompson,customer862@example.com,9728270908,Port Sarahport,2024-02-25,Regular,Gold
+CUST00863,Leslie Jackson,customer863@example.com,9173929578,Bowersville,2025-10-31,New,Bronze
+CUST00864,David Thomas,customer864@example.com,9736050791,Lake Dianahaven,2025-07-08,Returning,Gold
+CUST00865,Kelly Sherman,customer865@example.com,9345273466,Bennettfort,2023-11-25,Regular,Silver
+CUST00866,Justin Lynch,customer866@example.com,9474080314,Lake Lee,2023-12-21,Regular,Platinum
+CUST00867,Walter Cruz,customer867@example.com,9580688285,East Coreyburgh,2026-07-04,Regular,Platinum
+CUST00868,Angel Harris,customer868@example.com,9399006314,East Donnamouth,2026-10-12,Regular,Silver
+CUST00869,Dr. Jacqueline Monroe,customer869@example.com,9022939469,Jamieview,2025-01-20,New,Bronze
+CUST00870,Rodney Bennett,customer870@example.com,9374906072,North Dana,2024-03-04,Regular,Platinum
+CUST00871,Katherine White,customer871@example.com,9524648449,Danielville,2025-01-04,New,Gold
+CUST00872,Christina Miller,customer872@example.com,9732807711,North Marissa,2024-05-19,New,Bronze
+CUST00873,Renee Allen,customer873@example.com,9957279083,Lake Louis,2025-07-14,New,Bronze
+CUST00874,Gloria Clements,customer874@example.com,9257306624,East Jackborough,2024-11-01,Returning,Gold
+CUST00875,Allison Alexander,customer875@example.com,9398482285,North Gailchester,2025-05-19,Regular,Platinum
+CUST00876,Nathan Ramsey,customer876@example.com,9550213060,Port Paulshire,2024-03-09,Regular,Platinum
+CUST00877,Mark Elliott,customer877@example.com,9107964967,Lake Tracy,2024-07-30,Returning,Bronze
+CUST00878,Mallory Mendoza,customer878@example.com,9278532426,Nicolestad,2026-01-18,Regular,Silver
+CUST00879,Elijah Williams,customer879@example.com,9683625366,Murraymouth,2025-02-27,Returning,Gold
+CUST00880,Jack Nguyen,customer880@example.com,9628333393,Rachelside,2026-06-01,New,Gold
+CUST00881,Jade Parker,customer881@example.com,9627187496,East Jeffside,2026-07-01,Returning,Bronze
+CUST00882,Teresa Reynolds,customer882@example.com,9703692492,Andrewsborough,2024-04-12,Returning,Platinum
+CUST00883,David Rodgers,customer883@example.com,9759980111,North Samanthaton,2024-10-27,Returning,Platinum
+CUST00884,Timothy Kelly,customer884@example.com,9234159597,Morganburgh,2024-09-11,Returning,Gold
+CUST00885,Justin Lester,customer885@example.com,9226189628,Gravesview,2025-11-24,New,Platinum
+CUST00886,Vanessa Beck,customer886@example.com,9271026767,Port Andrew,2025-11-22,Regular,Platinum
+CUST00887,Tara Richards,customer887@example.com,9270795515,East Dennisport,2025-11-10,Returning,Gold
+CUST00888,Ashley Donovan,customer888@example.com,9354159709,Freystad,2026-05-19,New,Platinum
+CUST00889,Douglas Meyer,customer889@example.com,9075203447,Morganview,2026-01-28,New,Platinum
+CUST00890,Judith Miller,customer890@example.com,9802909046,South Norman,2023-12-08,Regular,Silver
+CUST00891,Melissa Rogers,customer891@example.com,9866525483,Campbellland,2026-07-27,Regular,Gold
+CUST00892,Angela Wade,customer892@example.com,9581021312,Calvinshire,2026-03-26,Returning,Bronze
+CUST00893,Sharon Smith,customer893@example.com,9059129751,North Janetborough,2026-08-01,New,Gold
+CUST00894,Charlene Higgins,customer894@example.com,9106330165,South Lisa,2025-12-14,Regular,Gold
+CUST00895,Michael Harrison DDS,customer895@example.com,9907280123,Douglasside,2025-07-21,Returning,Platinum
+CUST00896,Caleb Gill,customer896@example.com,9325326949,Hunterport,2024-06-25,Regular,Platinum
+CUST00897,Gregory Allen,customer897@example.com,9044210175,New Katelynchester,2024-01-25,New,Platinum
+CUST00898,Michelle Smith,customer898@example.com,9159591945,Howardfort,2024-12-09,Returning,Platinum
+CUST00899,John Gardner,customer899@example.com,9339205677,Sandrafurt,2025-03-21,New,Gold
+CUST00900,Jodi Thomas,customer900@example.com,9660256265,South Laceyburgh,2024-04-12,Regular,Platinum
+CUST00901,Claire Smith,customer901@example.com,9724530762,Mariaside,2024-08-29,Returning,Bronze
+CUST00902,Lawrence Porter,customer902@example.com,9627051157,Donaldhaven,2026-08-28,New,Platinum
+CUST00903,Jennifer Smith,customer903@example.com,9425496919,New Julian,2026-01-01,Returning,Silver
+CUST00904,Sharon Wood,customer904@example.com,9710756335,Port Rachel,2025-09-23,New,Silver
+CUST00905,Karen Ramirez,customer905@example.com,9595325939,Port Lori,2025-04-17,Regular,Platinum
+CUST00906,Alec Dixon,customer906@example.com,9162951877,Carlfurt,2026-02-28,New,Silver
+CUST00907,Desiree Thomas,customer907@example.com,9073305597,Port Joseph,2024-10-14,New,Silver
+CUST00908,Miss Kimberly Holloway,customer908@example.com,9399140388,Johnfurt,2025-02-04,Regular,Gold
+CUST00909,Alexandra Green,customer909@example.com,9240061572,Garrettside,2024-04-19,Returning,Platinum
+CUST00910,Ernest Giles,customer910@example.com,9743974292,Stephanieville,2023-12-26,Regular,Bronze
+CUST00911,John Thomas,customer911@example.com,9680656259,Lake Justinshire,2026-02-05,Regular,Silver
+CUST00912,Jorge Sharp,customer912@example.com,9271122182,North Karen,2026-09-29,Regular,Platinum
+CUST00913,Jason Potter,customer913@example.com,9768086628,Port Jaredburgh,2024-03-04,Returning,Gold
+CUST00914,Debbie Allen,customer914@example.com,9800370033,Port Devin,2024-10-14,Returning,Bronze
+CUST00915,Mark Foster,customer915@example.com,9847068103,East Jeromefort,2023-11-06,Regular,Silver
+CUST00916,Lauren Richardson,customer916@example.com,9263280944,Williamburgh,2026-05-01,Regular,Gold
+CUST00917,Dawn Gonzalez,customer917@example.com,9461470798,Harrisville,2023-12-14,Returning,Gold
+CUST00918,Natalie Sawyer,customer918@example.com,9394394570,New Pamela,2026-05-11,Regular,Gold
+CUST00919,Alexander Smith,customer919@example.com,9253765769,South Timothy,2025-08-14,New,Bronze
+CUST00920,Mary Pace,customer920@example.com,9191009004,West Seanshire,2026-09-17,New,Silver
+CUST00921,Jacob Brewer,customer921@example.com,9651460401,Donaldmouth,2026-08-14,Returning,Platinum
+CUST00922,Rebecca Harris,customer922@example.com,9072011379,Josephshire,2025-04-07,Regular,Bronze
+CUST00923,Brittany Brown,customer923@example.com,9600767620,Lake Bryanview,2025-12-16,Returning,Gold
+CUST00924,Christina Adams,customer924@example.com,9433700968,Connerton,2024-09-08,Regular,Platinum
+CUST00925,Jacob Hoover,customer925@example.com,9825588255,Thompsonfurt,2024-12-10,New,Gold
+CUST00926,Dr. Brittany Chambers,customer926@example.com,9786561942,Sandymouth,2025-03-07,Regular,Platinum
+CUST00927,Melanie Preston,customer927@example.com,9582958292,Port Heather,2024-01-27,New,Bronze
+CUST00928,Brian Mason,customer928@example.com,9081904823,Tracymouth,2026-01-09,New,Bronze
+CUST00929,Kimberly Foster,customer929@example.com,9639561372,Lake Aaron,2026-03-17,Returning,Silver
+CUST00930,Ashley Thomas,customer930@example.com,9143643813,North Anthonyville,2024-06-12,Regular,Platinum
+CUST00931,Melanie Jones,customer931@example.com,9716560945,Brooksport,2025-02-10,New,Gold
+CUST00932,Karen Mendez,customer932@example.com,9070755047,Mullinsville,2025-02-04,Regular,Gold
+CUST00933,Shirley Avery,customer933@example.com,9706071748,North Johnville,2025-03-11,Regular,Bronze
+CUST00934,Dana Riggs,customer934@example.com,9054873961,Lake Davidtown,2026-08-20,Regular,Gold
+CUST00935,Jonathan Ford,customer935@example.com,9968049187,South Kelly,2024-04-25,Returning,Silver
+CUST00936,Gary Rodriguez,customer936@example.com,9213773062,Williamsburgh,2024-06-30,Regular,Silver
+CUST00937,Lauren Snyder,customer937@example.com,9711222990,Crawfordchester,2023-11-21,Returning,Silver
+CUST00938,Melissa Reid,customer938@example.com,9167046861,North Josestad,2025-04-02,New,Silver
+CUST00939,Dana Reilly,customer939@example.com,9210219237,Angelafort,2024-01-11,New,Silver
+CUST00940,Charlene Gutierrez,customer940@example.com,9803324260,Briantown,2024-03-01,Returning,Bronze
+CUST00941,Lauren Smith,customer941@example.com,9253733777,North Gerald,2025-06-27,Returning,Gold
+CUST00942,Shannon Jones,customer942@example.com,9282178192,Lake Karen,2026-05-07,Returning,Silver
+CUST00943,Darin Baker,customer943@example.com,9060560356,Obrienbury,2026-01-27,Regular,Bronze
+CUST00944,Lucas Tyler,customer944@example.com,9623984716,South Carlland,2025-12-10,New,Gold
+CUST00945,Patricia Williams,customer945@example.com,9464754895,Melissafort,2025-05-12,Returning,Platinum
+CUST00946,Seth Barker,customer946@example.com,9899927517,Amandaland,2024-07-31,Regular,Platinum
+CUST00947,Devon Roberts,customer947@example.com,9835539354,Port Matthew,2025-11-09,Returning,Bronze
+CUST00948,Kyle Santiago,customer948@example.com,9392435885,Port Steven,2025-05-22,New,Gold
+CUST00949,Nathan Carter,customer949@example.com,9339527536,Loveshire,2025-03-16,Regular,Bronze
+CUST00950,David Jones,customer950@example.com,9168601347,Donovanside,2025-07-30,Returning,Platinum
+CUST00951,Keith Gonzalez,customer951@example.com,9067917665,East Herbertstad,2026-02-09,Regular,Gold
+CUST00952,Amanda Jones MD,customer952@example.com,9842163090,North Matthewview,2024-09-05,New,Silver
+CUST00953,Daniel Munoz,customer953@example.com,9485320895,East Linda,2026-04-21,New,Platinum
+CUST00954,Luis Best,customer954@example.com,9199471136,East Stephen,2024-04-28,Regular,Bronze
+CUST00955,Daniel Rodriguez,customer955@example.com,9346996733,Port Christophermouth,2025-02-26,New,Silver
+CUST00956,Janice Gilbert,customer956@example.com,9608437685,Andrewhaven,2025-09-03,Returning,Silver
+CUST00957,Lisa Watson,customer957@example.com,9196263355,Hillport,2026-07-10,New,Gold
+CUST00958,Shawn Yu,customer958@example.com,9931706955,Smithchester,2025-12-31,Regular,Silver
+CUST00959,Ann Scott,customer959@example.com,9345472239,Port Barry,2024-12-21,Returning,Gold
+CUST00960,Darryl Mann,customer960@example.com,9219804184,Hernandezberg,2026-05-27,New,Gold
+CUST00961,Thomas Perez,customer961@example.com,9428131909,West Amy,2026-08-27,New,Gold
+CUST00962,Cynthia Morton,customer962@example.com,9391114281,Transtad,2025-12-30,New,Gold
+CUST00963,Timothy Sanchez,customer963@example.com,9052480880,Taylorton,2025-03-27,Regular,Bronze
+CUST00964,Dana Lynch,customer964@example.com,9594737213,Lake Catherine,2023-12-15,Regular,Silver
+CUST00965,Mrs. Donna Rice,customer965@example.com,9768868785,Waltonhaven,2026-08-21,Regular,Silver
+CUST00966,Scott Martinez,customer966@example.com,9031954196,Bennettstad,2023-11-25,New,Gold
+CUST00967,Dr. Daniel Hampton,customer967@example.com,9279246320,South Johnny,2025-01-09,Regular,Bronze
+CUST00968,Jacqueline Harris,customer968@example.com,9260321450,Stevenfurt,2026-06-28,New,Bronze
+CUST00969,Angela Carter,customer969@example.com,9887071553,Sandraburgh,2023-11-11,New,Gold
+CUST00970,Patrick Hoffman,customer970@example.com,9008385076,Laurenmouth,2024-11-13,Regular,Silver
+CUST00971,Jacob Solis,customer971@example.com,9917768089,East Sarahfurt,2024-10-25,Regular,Platinum
+CUST00972,Monique Reid,customer972@example.com,9223196463,North Kevinberg,2024-05-30,Regular,Bronze
+CUST00973,Jennifer Mckenzie,customer973@example.com,9268943012,West Jessicaland,2024-06-26,Returning,Gold
+CUST00974,Carol Chambers,customer974@example.com,9117595749,Crystalmouth,2025-05-29,Regular,Gold
+CUST00975,Sara Lawrence,customer975@example.com,9493306745,Victorfurt,2023-12-25,Returning,Silver
+CUST00976,Rebecca Scott,customer976@example.com,9283337218,Robertfurt,2025-01-31,Regular,Platinum
+CUST00977,Brad Martin,customer977@example.com,9715066626,Goodmouth,2026-08-22,Returning,Platinum
+CUST00978,David Koch,customer978@example.com,9769366343,West Erik,2024-10-22,New,Bronze
+CUST00979,Bradley Miller,customer979@example.com,9028671200,Thompsonberg,2024-09-13,New,Platinum
+CUST00980,Meghan Hull,customer980@example.com,9591024510,North Christinaborough,2026-03-13,Returning,Platinum
+CUST00981,Samantha Henry,customer981@example.com,9494981942,South Catherineview,2024-04-19,Returning,Silver
+CUST00982,Kayla Crawford,customer982@example.com,9340652775,Kellyfurt,2025-01-30,Returning,Silver
+CUST00983,Rebecca Boone,customer983@example.com,9533722010,East Danielmouth,2024-03-16,Returning,Gold
+CUST00984,Diane Cook,customer984@example.com,9593766189,Sharonborough,2026-07-07,Regular,Gold
+CUST00985,Helen Myers,customer985@example.com,9510046277,Bowersmouth,2025-03-05,Returning,Silver
+CUST00986,Nichole Zimmerman,customer986@example.com,9592024617,Eddieberg,2024-07-19,Returning,Bronze
+CUST00987,Tina Solomon,customer987@example.com,9260055955,North Timothyhaven,2024-06-07,Returning,Silver
+CUST00988,Michael Hodge,customer988@example.com,9848689993,Carrilloton,2025-03-11,Returning,Bronze
+CUST00989,Kimberly Ryan,customer989@example.com,9704506917,Hickmanshire,2024-07-09,Returning,Platinum
+CUST00990,Kevin Cole,customer990@example.com,9403946408,North Jeffrey,2026-04-17,New,Silver
+CUST00991,Aaron Williams,customer991@example.com,9148860849,South Vanessaborough,2025-06-06,New,Bronze
+CUST00992,Penny Wyatt,customer992@example.com,9685283061,Deborahfort,2023-11-21,Returning,Platinum
+CUST00993,Paul Scott,customer993@example.com,9446263251,Kyleside,2025-11-25,Regular,Platinum
+CUST00994,Angela Moore,customer994@example.com,9103142175,New Katieside,2025-03-22,New,Silver
+CUST00995,Michael Ramirez,customer995@example.com,9151526384,New Lindaland,2026-10-21,Returning,Gold
+CUST00996,Glenn Boyd,customer996@example.com,9837505661,Lewisborough,2025-09-09,New,Silver
+CUST00997,Mr. Michael Cherry,customer997@example.com,9378765530,South Jacobshire,2024-11-22,Returning,Platinum
+CUST00998,Taylor Wong MD,customer998@example.com,9057121988,New Derekfort,2025-06-27,Returning,Gold
+CUST00999,Pam Wilson,customer999@example.com,9053486401,West Elizabethberg,2025-11-30,Returning,Bronze
+CUST01000,Yvonne Ramirez,customer1000@example.com,9618517446,North Tinamouth,2024-05-19,New,Platinum

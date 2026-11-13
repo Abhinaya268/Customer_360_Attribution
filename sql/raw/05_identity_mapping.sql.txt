@@ -1,0 +1,34 @@
+-- Project: Customer 360 and Marketing Attribution
+-- Query 05: Identity Mapping
+
+CREATE OR REPLACE TABLE
+`customer-360-analytics-513215.customer360_raw.identity_mapping`
+AS
+
+WITH ga4_users AS (
+    SELECT DISTINCT
+        user_pseudo_id
+    FROM
+        `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
+    WHERE
+        user_pseudo_id IS NOT NULL
+),
+
+ranked_users AS (
+    SELECT
+        user_pseudo_id,
+        ROW_NUMBER() OVER (
+            ORDER BY user_pseudo_id
+        ) AS row_num
+    FROM ga4_users
+)
+
+SELECT
+    user_pseudo_id,
+    CONCAT(
+        'CUST',
+        LPAD(CAST(row_num AS STRING), 5, '0')
+    ) AS customer_id,
+    'SYNTHETIC_SIMULATED_MATCH' AS mapping_type
+FROM ranked_users
+WHERE row_num <= 1000;

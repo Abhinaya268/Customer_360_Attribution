@@ -1,0 +1,27 @@
+-- Project: Customer 360 and Marketing Attribution
+-- Query 06: Customer 360 Base Table
+
+CREATE OR REPLACE TABLE
+`customer-360-analytics-513215.customer360_raw.customer_360_base`
+AS
+
+SELECT
+    c.customer_id,
+    c.full_name,
+    c.email,
+    c.phone,
+    c.city,
+    c.signup_date,
+    c.customer_type,
+    c.loyalty_tier,
+    m.user_pseudo_id,
+    m.mapping_type
+
+FROM
+    `customer-360-analytics-513215.customer360_raw.crm_customers` AS c
+
+LEFT JOIN
+    `customer-360-analytics-513215.customer360_raw.identity_mapping` AS m
+
+ON
+    c.customer_id = m.customer_id;

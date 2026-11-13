@@ -1,0 +1,15 @@
+-- Project: Customer 360 and Marketing Attribution
+-- Query 02: GA4 Customer Summary
+-- Purpose: Understand website users and activity
+
+SELECT
+    COUNT(*) AS total_events,
+    COUNT(DISTINCT user_pseudo_id) AS total_users,
+    COUNTIF(event_name = 'purchase') AS purchase_events,
+    COUNTIF(event_name = 'add_to_cart') AS cart_events,
+    COUNTIF(event_name = 'begin_checkout') AS checkout_events,
+    MIN(event_date) AS first_date,
+    MAX(event_date) AS last_date
+
+FROM
+    `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`;
