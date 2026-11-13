@@ -193,7 +193,7 @@ performance.
     presented as a production-hardened system.
 
 ## Author and purpose
-
+Author: Yalabaka Abhinaya Sri
 Prepared as an internship project demonstrating customer analytics, data
 transformation, marketing attribution, data quality checks, and
 dashboard development.
