@@ -1,0 +1,145 @@
+# Data and API Documentation
+## Customer 360 and Marketing Attribution Platform
+
+**Author:** Yalabaka Abhinaya Sri  
+**Project:** Customer 360 and Marketing Attribution Platform
+
+---
+
+## 1. Project Overview
+
+This project combines website event data, synthetic CRM customer information, and campaign performance data to create a unified Customer 360 view and marketing attribution analysis.
+
+The platform uses Google BigQuery for data storage and SQL transformations, dbt for data modelling and testing, Python for supporting data preparation, and Tableau Public for dashboards.
+
+## 2. Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| Google BigQuery | Cloud data warehouse |
+| SQL | Data extraction and transformation |
+| dbt Core | Data modelling and testing |
+| Python / Google Colab | Data preparation and export |
+| Tableau Public | Dashboard development and publishing |
+| GitHub | Project source control and documentation |
+
+## 3. Data Sources
+
+### 3.1 Website Event Data
+
+- Source: Google Analytics 4 public sample ecommerce dataset.
+- BigQuery source: `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
+- Observation period: November 1, 2020 – January 31, 2021.
+- Contains website events, customer identifiers, traffic sources, sessions, and ecommerce activity.
+
+### 3.2 CRM Customer Data
+
+- Source: Synthetic CRM customer dataset created for this project.
+- Contains customer identifiers and customer profile information.
+- Used to demonstrate customer identity mapping and Customer 360 integration.
+- Contains 1,000 customer records.
+
+### 3.3 Campaign Performance Data
+
+- Contains campaign source, medium, campaign name, spend, conversions, and revenue.
+- Campaign spend values are illustrative assumptions, not verified advertising-platform expenditure.
+
+## 4. Data Architecture and Flow
+
+1. Extract website event data from the public GA4 BigQuery dataset.
+2. Prepare synthetic CRM customer and identity mapping data.
+3. Store and organize source data in BigQuery.
+4. Transform data using dbt models.
+5. Run data quality tests.
+6. Use the resulting data for customer analytics and marketing attribution.
+7. Connect analytical outputs to Tableau dashboards.
+8. Publish dashboards using Tableau Public.
+
+## 5. dbt Data Models
+
+The project contains six primary dbt models.
+
+| Model | Description |
+|---|---|
+| `customer_profile` | Customer profile and unified customer information |
+| `orders` | Ecommerce purchase and transaction information |
+| `sessions` | Website session-level information |
+| `session_touchpoints` | Marketing touchpoints associated with sessions |
+| `attribution_models` | First-touch, last-touch, linear, and time-decay attribution |
+| `campaign_performance` | Campaign-level performance metrics |
+
+The time-decay attribution model uses an assumed seven-day half-life.
+
+## 6. Data Quality and Testing
+
+The project uses dbt tests to validate important data conditions.
+
+- Customer IDs are checked for missing values.
+- Customer IDs are checked for uniqueness.
+- Model-specific tests validate data quality.
+- A custom test checks that the customer profile contains 1,000 rows.
+
+**Reported test result:** The dbt debug, model execution, and configured dbt tests completed successfully.
+
+## 7. Data Dictionary – Key Fields
+
+| Field | Description |
+|---|---|
+| `customer_id` | Unique CRM customer identifier |
+| `user_pseudo_id` | GA4 pseudonymous visitor identifier |
+| `event_date` | Date of the recorded event |
+| `event_name` | Name of the website event |
+| `transaction_id` | Ecommerce transaction identifier |
+| `revenue_usd` | Revenue amount in US dollars |
+| `marketing_source` | Marketing traffic source |
+| `marketing_medium` | Marketing channel medium |
+| `campaign_name` | Marketing campaign name |
+| `spend_usd` | Illustrative campaign spend |
+| `conversions` | Campaign conversion count |
+
+## 8. Marketing Attribution Methods
+
+The platform supports four attribution approaches:
+
+- **First-touch:** Credits the first recorded marketing touchpoint.
+- **Last-touch:** Credits the last recorded marketing touchpoint.
+- **Linear:** Distributes credit equally across eligible touchpoints.
+- **Time-decay:** Gives more credit to recent touchpoints using a seven-day half-life assumption.
+
+These are rule-based attribution methods and should not be interpreted as causal measurement.
+
+## 9. API Documentation and Integration Status
+
+**API implementation status: No custom REST API has been implemented in this project.**
+
+The current solution uses direct data access and integration through:
+
+- Google BigQuery for data storage and SQL execution.
+- dbt for transformations and data quality testing.
+- Tableau connections for dashboard reporting.
+- Python and Google Colab for supporting data preparation and CSV exports.
+
+There are no custom REST API endpoints, authentication routes, or API request/response contracts to document.
+
+Future enhancements may include a REST API for customer profile retrieval, campaign performance reporting, and integration with external marketing applications.
+
+## 10. Security and Data Limitations
+
+- The project uses a public GA4 sample dataset and synthetic CRM data.
+- No real customer credentials or private customer records should be committed to GitHub.
+- BigQuery authentication credentials must remain private.
+- Campaign spend values are illustrative.
+- Attribution results depend on the selected rules and available touchpoint data.
+- Customer lifetime value calculations use assumptions and should not be treated as validated predictions.
+
+## 11. Future Enhancements
+
+- Develop REST API endpoints for customer and campaign data.
+- Integrate verified advertising-platform spend.
+- Add automated data refresh and monitoring.
+- Improve identity resolution.
+- Validate customer lifetime value using a larger dataset.
+
+---
+
+**End of Document**
