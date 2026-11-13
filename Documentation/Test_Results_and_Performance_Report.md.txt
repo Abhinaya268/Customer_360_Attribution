@@ -1,0 +1,102 @@
+# Test Results and Performance Report
+## Customer 360 and Marketing Attribution Platform
+
+**Author:** Yalabaka Abhinaya Sri  
+**Project:** Customer 360 and Marketing Attribution Platform
+
+---
+
+## 1. Testing Overview
+
+The project uses dbt Core to execute data transformations and validate data quality in Google BigQuery.
+
+Testing focuses on successful model execution, customer data completeness, uniqueness, and expected customer record counts.
+
+## 2. dbt Execution Results
+
+| Test / Execution | Result |
+|---|---|
+| dbt debug | Passed |
+| dbt run | Passed |
+| dbt test | Passed |
+| Customer profile model | Executed |
+| Orders model | Executed |
+| Sessions model | Executed |
+| Session touchpoints model | Executed |
+| Attribution models | Executed |
+| Campaign performance model | Executed |
+
+**Overall result:** The configured dbt execution and testing process completed successfully.
+
+## 3. Data Quality Test Results
+
+| Data quality check | Expected condition | Result |
+|---|---|---|
+| Customer ID uniqueness | No duplicate customer IDs | Configured and passed |
+| Customer ID not-null | Customer IDs must not be missing | Configured and passed |
+| Customer profile row count | 1,000 records | Custom test passed |
+
+The custom SQL test `customer_profile_row_count.sql` validates the expected customer profile record count of 1,000.
+
+## 4. Data Volume and Validation Results
+
+| Metric | Result |
+|---|---:|
+| GA4 website events | 4,295,584 |
+| GA4 users | 270,154 |
+| CRM customers | 1,000 |
+| Identity mappings | 1,000 |
+| Customer 360 base records | 1,000 |
+| Customer 360 activity records | 1,000 |
+| Customer 360 revenue records | 1,000 |
+| Website events in Customer 360 activity | 15,724 |
+| Purchase events in Customer 360 activity | 20 |
+
+The CRM customer records and identity mappings were successfully linked in the prepared project dataset.
+
+## 5. Customer Analytics Results
+
+| Metric | Result |
+|---|---:|
+| Total customers | 1,000 |
+| Purchasing customers | 12 |
+| High-value customers | 2 |
+| One-time customers | 10 |
+| Non-purchasing customers | 988 |
+| Total revenue | $1,757 |
+| Average revenue per customer | $1.76 |
+
+These results are based on the prepared Customer 360 dataset and the available sample data.
+
+## 6. Performance Evaluation
+
+The project successfully executed its configured dbt models and generated analytical outputs in BigQuery.
+
+However, formal execution-time benchmarks, query latency measurements, and resource-utilization measurements were not collected.
+
+Therefore, no specific runtime or speed improvement is claimed.
+
+## 7. Accuracy and Limitations
+
+- dbt tests validate configured data-quality conditions; they do not prove that every business metric is accurate.
+- The CRM dataset is synthetic.
+- The GA4 data comes from a public sample ecommerce dataset.
+- Attribution models use rule-based assumptions rather than causal measurement.
+- The time-decay attribution model uses an assumed seven-day half-life.
+- Campaign spend values are illustrative and are not verified advertising expenditure.
+- Customer lifetime value calculations use assumptions and a limited purchasing sample.
+- No independent ground-truth dataset was available to calculate predictive accuracy.
+
+## 8. Final Testing Summary
+
+The project successfully completed the configured dbt debugging, model execution, and testing process.
+
+The six dbt models support customer profiling, order analysis, session analysis, marketing touchpoint analysis, attribution, and campaign performance reporting.
+
+The resulting data supports the Customer 360 and Campaign Performance dashboards published through Tableau Public.
+
+Formal performance benchmarking and independent accuracy validation remain future improvements.
+
+---
+
+**End of Report**
